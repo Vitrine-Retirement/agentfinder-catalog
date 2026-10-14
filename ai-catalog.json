@@ -22496,7 +22496,8 @@
       ],
       "metadata": {
         "sourceSet": "vercel-labs/agent-skills",
-        "repoPath": "skills/web-design-guidelines/SKILL.md"
+        "repoPath": "skills/web-design-guidelines/SKILL.md",
+        "com.github.agentfinder.icon.url": "https://raw.githubusercontent.com/github/agentfinder-catalog/544c27431d23ae877948d810ab26fd91e1da868a/icons/vercel-labs/web-design-guidelines.png"
       },
       "type": "application/ai-skill"
     },
@@ -25641,7 +25642,8 @@
         "readmeUrl": "https://github.com/microsoft/powerbi-modeling-mcp.git#readme",
         "repository": "https://github.com/microsoft/powerbi-modeling-mcp.git",
         "repositorySource": "github",
-        "stargazerCount": 1219
+        "stargazerCount": 1219,
+        "com.github.agentfinder.icon.url": "https://raw.githubusercontent.com/github/agentfinder-catalog/07dc8131ec1f87d314cec4d313443e67f21080dc/icons/microsoft/power-bi.png"
       }
     },
     {

@@ -91,12 +91,30 @@
       }
     },
     {
+      "identifier": "urn:air:github.com:vercel-labs:agent-skills:web-design-guidelines",
+      "url": "https://raw.githubusercontent.com/github/agentfinder-catalog/544c27431d23ae877948d810ab26fd91e1da868a/icons/vercel-labs/web-design-guidelines.png",
+      "provenance": {
+        "sourceUrl": "https://raw.githubusercontent.com/github/agentfinder-catalog/544c27431d23ae877948d810ab26fd91e1da868a/icons/vercel-labs/web-design-guidelines.png",
+        "approval": "sourceUrl identifies the publicly published approved PNG export; the original featured app artwork is in a private repository. Public redistribution of the selected featured app artwork was explicitly approved by the contributing maintainer. SVG rasterization and resizing without cropping were approved; no third-party license is asserted.",
+        "sha256": "1454e226600f10289387ef4ce3cd02dcf9ce83b449d5fa3548448e234ee4b276"
+      }
+    },
+    {
       "identifier": "urn:air:registry.modelcontextprotocol.io:com.figma.mcp:mcp",
       "url": "https://raw.githubusercontent.com/github/agentfinder-catalog/08dc319501a58ca849999e2b7cc1d34225e13d3a/icons/figma/figma.png",
       "provenance": {
         "sourceUrl": "https://raw.githubusercontent.com/github/agentfinder-catalog/08dc319501a58ca849999e2b7cc1d34225e13d3a/icons/figma/figma.png",
         "approval": "sourceUrl identifies the publicly published approved PNG export; the original featured app artwork is in a private repository. Public redistribution of the selected featured app artwork was explicitly approved by the contributing maintainer. SVG rasterization and resizing without cropping were approved; no third-party license is asserted.",
         "sha256": "6890722df97d9384943420ea2dbfeb5159ceeb480a89600541e5c81f6aecf3ef"
+      }
+    },
+    {
+      "identifier": "urn:air:registry.modelcontextprotocol.io:com.microsoft:powerbi-modeling-mcp",
+      "url": "https://raw.githubusercontent.com/github/agentfinder-catalog/07dc8131ec1f87d314cec4d313443e67f21080dc/icons/microsoft/power-bi.png",
+      "provenance": {
+        "sourceUrl": "https://raw.githubusercontent.com/github/agentfinder-catalog/07dc8131ec1f87d314cec4d313443e67f21080dc/icons/microsoft/power-bi.png",
+        "approval": "sourceUrl identifies the publicly published approved PNG export of public/mcp-icons/power-bi.svg from private github/github-app at commit 26f6444fb6602932e32f5b1ac8c587ba4e84eaf4. The contributing maintainer explicitly approved: 'Yes, I approve public redistribution and SVG-to-PNG conversion'. The full SVG viewBox was rasterized to a transparent 512x512 PNG without cropping; no third-party license is asserted.",
+        "sha256": "b2fbd90dd98102eea469138baac6ad309160bda1231ed3aac13170c09ebeff79"
       }
     },
     {
