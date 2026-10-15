@@ -10960,30 +10960,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:github:copilot-plugins:spark-app-template",
-      "displayName": "Spark App Template",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/github/copilot-plugins/blob/main/plugins/spark/skills/spark-app-template/SKILL.md",
-      "description": "Comprehensive guidance for building web apps with opinionated defaults for tech stack, design system, and code standards.",
-      "metadata": {
-        "sourceSet": "github/copilot-plugins",
-        "repoPath": "plugins/spark/skills/spark-app-template/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:github:copilot-plugins:spark",
-      "displayName": "Spark",
-      "mediaType": "application/vnd.github.copilot-plugin",
-      "url": "https://github.com/github/copilot-plugins/blob/main/plugins/spark",
-      "description": "Spark plugin for GitHub Copilot.",
-      "metadata": {
-        "sourceSet": "github/copilot-plugins",
-        "repoPath": ".github/plugin/marketplace.json"
-      },
-      "type": "application/vnd.github.copilot-plugin"
-    },
-    {
       "identifier": "urn:air:github.com:github:awesome-copilot:sponsor-finder",
       "displayName": "Sponsor Finder",
       "mediaType": "application/ai-skill",
