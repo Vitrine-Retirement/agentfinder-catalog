@@ -65,11 +65,11 @@
     },
     {
       "identifier": "urn:air:github.com:microsoft:foundry-dev-tools:microsoft-foundry",
-      "url": "https://raw.githubusercontent.com/github/agentfinder-catalog/08dc319501a58ca849999e2b7cc1d34225e13d3a/icons/microsoft/microsoft-foundry.png",
+      "url": "https://raw.githubusercontent.com/github/agentfinder-catalog/86f63e3d82c25067b6a3f943f9853d53a2ab7a30/icons/microsoft/microsoft-foundry.png",
       "provenance": {
-        "sourceUrl": "https://raw.githubusercontent.com/github/agentfinder-catalog/08dc319501a58ca849999e2b7cc1d34225e13d3a/icons/microsoft/microsoft-foundry.png",
+        "sourceUrl": "https://raw.githubusercontent.com/github/agentfinder-catalog/86f63e3d82c25067b6a3f943f9853d53a2ab7a30/icons/microsoft/microsoft-foundry.png",
         "approval": "sourceUrl identifies the publicly published approved PNG export; the original featured app artwork is in a private repository. Public redistribution of the selected featured app artwork was explicitly approved by the contributing maintainer. SVG rasterization and resizing without cropping were approved; no third-party license is asserted.",
-        "sha256": "7be57ddbe688d9df424b8cfff10bd148626a77daf1459a3029ef22fdb511f3b3"
+        "sha256": "8842ac46b0d81760337a8d2340ab8686529adbb8a1b799e4f5a8714cc67d9d7d"
       }
     },
     {
@@ -83,11 +83,11 @@
     },
     {
       "identifier": "urn:air:github.com:pbakaus:impeccable:impeccable",
-      "url": "https://raw.githubusercontent.com/github/agentfinder-catalog/08dc319501a58ca849999e2b7cc1d34225e13d3a/icons/pbakaus/impeccable.png",
+      "url": "https://raw.githubusercontent.com/github/agentfinder-catalog/86f63e3d82c25067b6a3f943f9853d53a2ab7a30/icons/pbakaus/impeccable.png",
       "provenance": {
-        "sourceUrl": "https://raw.githubusercontent.com/github/agentfinder-catalog/08dc319501a58ca849999e2b7cc1d34225e13d3a/icons/pbakaus/impeccable.png",
+        "sourceUrl": "https://raw.githubusercontent.com/github/agentfinder-catalog/86f63e3d82c25067b6a3f943f9853d53a2ab7a30/icons/pbakaus/impeccable.png",
         "approval": "sourceUrl identifies the publicly published approved PNG export; the original featured app artwork is in a private repository. Public redistribution of the selected featured app artwork was explicitly approved by the contributing maintainer. SVG rasterization and resizing without cropping were approved; no third-party license is asserted.",
-        "sha256": "f5ebacd2e7a54174b5693b389a10d7e5ca9aa31dc8195e5e438c603d169ffc41"
+        "sha256": "6af596a7301e326cd252c59af2037c760a7a2dea10bdca529fffddb496009976"
       }
     },
     {
@@ -101,11 +101,11 @@
     },
     {
       "identifier": "urn:air:registry.modelcontextprotocol.io:com.figma.mcp:mcp",
-      "url": "https://raw.githubusercontent.com/github/agentfinder-catalog/08dc319501a58ca849999e2b7cc1d34225e13d3a/icons/figma/figma.png",
+      "url": "https://raw.githubusercontent.com/github/agentfinder-catalog/86f63e3d82c25067b6a3f943f9853d53a2ab7a30/icons/figma/figma.png",
       "provenance": {
-        "sourceUrl": "https://raw.githubusercontent.com/github/agentfinder-catalog/08dc319501a58ca849999e2b7cc1d34225e13d3a/icons/figma/figma.png",
+        "sourceUrl": "https://raw.githubusercontent.com/github/agentfinder-catalog/86f63e3d82c25067b6a3f943f9853d53a2ab7a30/icons/figma/figma.png",
         "approval": "sourceUrl identifies the publicly published approved PNG export; the original featured app artwork is in a private repository. Public redistribution of the selected featured app artwork was explicitly approved by the contributing maintainer. SVG rasterization and resizing without cropping were approved; no third-party license is asserted.",
-        "sha256": "6890722df97d9384943420ea2dbfeb5159ceeb480a89600541e5c81f6aecf3ef"
+        "sha256": "d139dff88f9562c19f2b925031778f2ca62743f8f42560afd62ad6469a0525a5"
       }
     },
     {
