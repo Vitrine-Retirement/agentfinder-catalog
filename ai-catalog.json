@@ -101,18 +101,6 @@
       "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
-      "identifier": "urn:air:github.com:anthropics:knowledge-work-plugins:build-zoom-contact-center-app",
-      "displayName": "Build Zoom Contact Center App",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/contact-center/SKILL.md",
-      "description": "Reference skill for Zoom Contact Center.",
-      "metadata": {
-        "sourceSet": "anthropics/knowledge-work-plugins",
-        "repoPath": "partner-built/zoom-plugin/skills/contact-center/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:anthropics:skills:canvas-design",
       "displayName": "Canvas Design",
       "mediaType": "application/ai-skill",
@@ -1325,18 +1313,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:anthropics:knowledge-work-plugins:zoom-cobrowse-sdk",
-      "displayName": "Zoom Cobrowse Sdk",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/cobrowse-sdk/SKILL.md",
-      "description": "Reference skill for Zoom Cobrowse SDK.",
-      "metadata": {
-        "sourceSet": "anthropics/knowledge-work-plugins",
-        "repoPath": "partner-built/zoom-plugin/skills/cobrowse-sdk/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:anthropics:knowledge-work-plugins:zoom-plugin",
       "displayName": "Zoom Plugin",
       "mediaType": "application/vnd.anthropic.claude-plugin+json",
@@ -1427,18 +1403,6 @@
       "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
-      "identifier": "urn:air:github.com:better-auth:skills:better-auth-best-practices",
-      "displayName": "Better Auth Best Practices",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/better-auth/skills/blob/main/better-auth/best-practices/SKILL.md",
-      "description": "Configure Better Auth server and client, set up database adapters, manage sessions, add plugins, and handle environment variables.",
-      "metadata": {
-        "sourceSet": "better-auth/skills",
-        "repoPath": "better-auth/best-practices/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:better-auth:skills:better-auth",
       "displayName": "Better Auth",
       "mediaType": "application/vnd.anthropic.claude-plugin+json",
@@ -1451,30 +1415,6 @@
       "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
-      "identifier": "urn:air:github.com:better-auth:skills:email-and-password-best-practices",
-      "displayName": "Email And Password Best Practices",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/better-auth/skills/blob/main/better-auth/emailAndPassword/SKILL.md",
-      "description": "Configure email verification, implement password reset flows, set password policies, and customise hashing algorithms for Better Auth email/password...",
-      "metadata": {
-        "sourceSet": "better-auth/skills",
-        "repoPath": "better-auth/emailAndPassword/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:better-auth:skills:organization-best-practices",
-      "displayName": "Organization Best Practices",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/better-auth/skills/blob/main/better-auth/organization/SKILL.md",
-      "description": "Configure multi-tenant organizations, manage members and invitations, define custom roles and permissions, set up teams, and implement RBAC using...",
-      "metadata": {
-        "sourceSet": "better-auth/skills",
-        "repoPath": "better-auth/organization/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:better-auth:skills:security",
       "displayName": "Security",
       "mediaType": "application/ai-skill",
@@ -1483,18 +1423,6 @@
       "metadata": {
         "sourceSet": "better-auth/skills",
         "repoPath": "security/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:better-auth:skills:two-factor-authentication-best-practices",
-      "displayName": "Two Factor Authentication Best Practices",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/better-auth/skills/blob/main/better-auth/twoFactor/SKILL.md",
-      "description": "Configure TOTP authenticator apps, send OTP codes via email/SMS, manage backup codes, handle trusted devices, and implement 2FA sign-in flows using...",
-      "metadata": {
-        "sourceSet": "better-auth/skills",
-        "repoPath": "better-auth/twoFactor/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -2519,18 +2447,6 @@
       "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
-      "identifier": "urn:air:github.com:dotnet:skills:configuring-opentelemetry-dotnet",
-      "displayName": "Configuring Opentelemetry Dotnet",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-aspnetcore/skills/configuring-opentelemetry-dotnet/SKILL.md",
-      "description": "Configure OpenTelemetry distributed tracing, metrics, and logging in ASP.NET Core using the .NET OpenTelemetry SDK.",
-      "metadata": {
-        "sourceSet": "dotnet/skills",
-        "repoPath": "plugins/dotnet-aspnetcore/skills/configuring-opentelemetry-dotnet/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:dotnet:skills:dotnet-msbuild",
       "displayName": "dotnet-msbuild",
       "mediaType": "application/vnd.anthropic.claude-plugin+json",
@@ -2541,66 +2457,6 @@
         "repoPath": "plugins/dotnet-msbuild/.claude-plugin/plugin.json"
       },
       "type": "application/vnd.anthropic.claude-plugin+json"
-    },
-    {
-      "identifier": "urn:air:github.com:dotnet:skills:exp-simd-vectorization",
-      "displayName": "Exp Simd Vectorization",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-experimental/skills/exp-simd-vectorization/SKILL.md",
-      "description": "Optimizes hot-path scalar loops in .NET 8+ with cross-platform Vector128/Vector256/Vector512 SIMD intrinsics, or replaces manual math loops with...",
-      "metadata": {
-        "sourceSet": "dotnet/skills",
-        "repoPath": "plugins/dotnet-experimental/skills/exp-simd-vectorization/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:dotnet:skills:mcp-csharp-create",
-      "displayName": "Mcp Csharp Create",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-ai/skills/mcp-csharp-create/SKILL.md",
-      "description": "Create MCP servers using the C# SDK and .NET project templates.",
-      "metadata": {
-        "sourceSet": "dotnet/skills",
-        "repoPath": "plugins/dotnet-ai/skills/mcp-csharp-create/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:dotnet:skills:mcp-csharp-debug",
-      "displayName": "Mcp Csharp Debug",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-ai/skills/mcp-csharp-debug/SKILL.md",
-      "description": "Run and debug C# MCP servers locally.",
-      "metadata": {
-        "sourceSet": "dotnet/skills",
-        "repoPath": "plugins/dotnet-ai/skills/mcp-csharp-debug/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:dotnet:skills:mcp-csharp-publish",
-      "displayName": "Mcp Csharp Publish",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-ai/skills/mcp-csharp-publish/SKILL.md",
-      "description": "Publish and deploy C# MCP servers.",
-      "metadata": {
-        "sourceSet": "dotnet/skills",
-        "repoPath": "plugins/dotnet-ai/skills/mcp-csharp-publish/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:dotnet:skills:mcp-csharp-test",
-      "displayName": "Mcp Csharp Test",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-ai/skills/mcp-csharp-test/SKILL.md",
-      "description": "Test C# MCP servers at multiple levels: unit tests for individual tools and integration tests using the MCP client SDK.",
-      "metadata": {
-        "sourceSet": "dotnet/skills",
-        "repoPath": "plugins/dotnet-ai/skills/mcp-csharp-test/SKILL.md"
-      },
-      "type": "application/ai-skill"
     },
     {
       "identifier": "urn:air:github.com:elevenlabs:skills:agents",
@@ -2755,18 +2611,6 @@
       "metadata": {
         "sourceSet": "expo/skills",
         "repoPath": ".claude/skills/expo-skill-eval/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:expo:skills:expo-tailwind-setup",
-      "displayName": "Expo Tailwind Setup",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/expo/skills/blob/main/plugins/expo/skills/expo-tailwind-setup/SKILL.md",
-      "description": "Framework (OSS).",
-      "metadata": {
-        "sourceSet": "expo/skills",
-        "repoPath": "plugins/expo/skills/expo-tailwind-setup/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -9859,42 +9703,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:microsoft:skills:azure-app-onboard",
-      "displayName": "Azure App Onboard",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/skills/blob/main/.github/plugins/azure-skills/skills/azure-app-onboard/SKILL.md",
-      "description": "End-to-end orchestrator: from a business idea, app idea, or existing app to running Azure deployment with cost estimates and pre-deploy...",
-      "metadata": {
-        "sourceSet": "microsoft/skills",
-        "repoPath": ".github/plugins/azure-skills/skills/azure-app-onboard/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:microsoft:azure-skills:azure-compute",
-      "displayName": "Azure Compute",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/azure-skills/blob/main/.github/plugins/azure-skills/skills/azure-compute/SKILL.md",
-      "description": "Azure skill definition for azure-compute.",
-      "metadata": {
-        "sourceSet": "microsoft/azure-skills",
-        "repoPath": ".github/plugins/azure-skills/skills/azure-compute/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:microsoft:azure-skills:azure-cost",
-      "displayName": "Azure Cost",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/azure-skills/blob/main/.github/plugins/azure-skills/skills/azure-cost/SKILL.md",
-      "description": "Azure skill definition for azure-cost.",
-      "metadata": {
-        "sourceSet": "microsoft/azure-skills",
-        "repoPath": ".github/plugins/azure-skills/skills/azure-cost/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:microsoft:azure-devops-copilot-plugin:azure-devops-copilot-plugin",
       "displayName": "Azure DevOps Canvas",
       "mediaType": "application/vnd.anthropic.claude-plugin+json",
@@ -9911,18 +9719,6 @@
         "com.github.agentfinder.icon.url": "https://raw.githubusercontent.com/github/agentfinder-catalog/08dc319501a58ca849999e2b7cc1d34225e13d3a/icons/microsoft/azure-devops.png"
       },
       "type": "application/vnd.anthropic.claude-plugin+json"
-    },
-    {
-      "identifier": "urn:air:github.com:microsoft:azure-skills:azure-hosted-copilot-sdk",
-      "displayName": "Azure Hosted Copilot Sdk",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/azure-skills/blob/main/.github/plugins/azure-skills/skills/azure-hosted-copilot-sdk/SKILL.md",
-      "description": "Azure skill definition for azure-hosted-copilot-sdk.",
-      "metadata": {
-        "sourceSet": "microsoft/azure-skills",
-        "repoPath": ".github/plugins/azure-skills/skills/azure-hosted-copilot-sdk/SKILL.md"
-      },
-      "type": "application/ai-skill"
     },
     {
       "identifier": "urn:air:github.com:microsoft:azure-skills:azure",
@@ -9942,30 +9738,6 @@
         "com.github.agentfinder.icon.url": "https://raw.githubusercontent.com/github/agentfinder-catalog/08dc319501a58ca849999e2b7cc1d34225e13d3a/icons/microsoft/azure.png"
       },
       "type": "application/vnd.github.copilot-plugin"
-    },
-    {
-      "identifier": "urn:air:github.com:microsoft:azure-skills:azure-prepare",
-      "displayName": "Azure Prepare",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/azure-skills/blob/main/.github/plugins/azure-skills/skills/azure-prepare/SKILL.md",
-      "description": "Azure skill definition for azure-prepare.",
-      "metadata": {
-        "sourceSet": "microsoft/azure-skills",
-        "repoPath": ".github/plugins/azure-skills/skills/azure-prepare/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:microsoft:azure-skills:azure-rbac",
-      "displayName": "Azure Rbac",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/azure-skills/blob/main/.github/plugins/azure-skills/skills/azure-rbac/SKILL.md",
-      "description": "Azure skill definition for azure-rbac.",
-      "metadata": {
-        "sourceSet": "microsoft/azure-skills",
-        "repoPath": ".github/plugins/azure-skills/skills/azure-rbac/SKILL.md"
-      },
-      "type": "application/ai-skill"
     },
     {
       "identifier": "urn:air:github.com:microsoft:power-platform-skills:canvas-apps",
@@ -10048,18 +9820,6 @@
       "metadata": {
         "sourceSet": "microsoft/skills",
         "repoPath": ".github/skills/debugview/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:microsoft:skills:deploy",
-      "displayName": "Deploy",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/skills/blob/main/.github/plugins/azure-skills/skills/azure-app-onboard/deploy/SKILL.md",
-      "description": "Invoked by the `azure-app-onboard` orchestrator at Phase 4 when `scaffold-manifest.json` exists with `files[]` and `validationResult`.",
-      "metadata": {
-        "sourceSet": "microsoft/skills",
-        "repoPath": ".github/plugins/azure-skills/skills/azure-app-onboard/deploy/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -10214,18 +9974,6 @@
       "type": "application/vnd.github.copilot-plugin"
     },
     {
-      "identifier": "urn:air:github.com:microsoft:azure-skills:microsoft-foundry",
-      "displayName": "Microsoft Foundry",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/azure-skills/blob/main/.github/plugins/azure-skills/skills/microsoft-foundry/SKILL.md",
-      "description": "Azure skill definition for microsoft-foundry.",
-      "metadata": {
-        "sourceSet": "microsoft/azure-skills",
-        "repoPath": ".github/plugins/azure-skills/skills/microsoft-foundry/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:microsoft:power-platform-skills:mobile-app",
       "displayName": "Mobile App",
       "mediaType": "application/vnd.github.copilot-plugin",
@@ -10298,30 +10046,6 @@
       "type": "application/vnd.github.copilot-plugin"
     },
     {
-      "identifier": "urn:air:github.com:microsoft:skills:prepare",
-      "displayName": "Prepare",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/skills/blob/main/.github/plugins/azure-skills/skills/azure-app-onboard/prepare/SKILL.md",
-      "description": "Invoked by the `azure-app-onboard` orchestrator at Phase 2 when `prereq-output.json` exists. Not directly user-routable.",
-      "metadata": {
-        "sourceSet": "microsoft/skills",
-        "repoPath": ".github/plugins/azure-skills/skills/azure-app-onboard/prepare/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:microsoft:skills:scaffold",
-      "displayName": "Scaffold",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/skills/blob/main/.github/plugins/azure-skills/skills/azure-app-onboard/scaffold/SKILL.md",
-      "description": "Generate deployment-ready infrastructure code from an architecture plan, verify it with adversarial self-review, and bridge to validation — all without.",
-      "metadata": {
-        "sourceSet": "microsoft/skills",
-        "repoPath": ".github/plugins/azure-skills/skills/azure-app-onboard/scaffold/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:microsoft:skills:skill-creator",
       "displayName": "Skill Creator",
       "mediaType": "application/ai-skill",
@@ -10342,18 +10066,6 @@
       "metadata": {
         "sourceSet": "microsoft/skills",
         "repoPath": ".github/skills/entra-agent-id/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:microsoft:skills:teams-app-developer",
-      "displayName": "Teams App Developer",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/skills/blob/main/.github/plugins/microsoft-365-agents-toolkit/skills/teams-app-developer/SKILL.md",
-      "description": "Builds, tests, and deploys Microsoft 365 apps and agents for Teams and Copilot.",
-      "metadata": {
-        "sourceSet": "microsoft/skills",
-        "repoPath": ".github/plugins/microsoft-365-agents-toolkit/skills/teams-app-developer/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -12916,18 +12628,6 @@
       "metadata": {
         "sourceSet": "trailofbits/skills",
         "repoPath": "plugins/c-review/skills/c-review/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:trailofbits:skills:chrome-mcp-troubleshooting",
-      "displayName": "Chrome Mcp Troubleshooting",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/trailofbits/skills/blob/main/plugins/claude-in-chrome-troubleshooting/skills/chrome-mcp-troubleshooting/SKILL.md",
-      "description": "Diagnose and fix Claude in Chrome MCP extension connectivity issues.",
-      "metadata": {
-        "sourceSet": "trailofbits/skills",
-        "repoPath": "plugins/claude-in-chrome-troubleshooting/skills/chrome-mcp-troubleshooting/SKILL.md"
       },
       "type": "application/ai-skill"
     },
