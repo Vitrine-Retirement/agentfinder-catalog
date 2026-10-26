@@ -53,18 +53,6 @@
       "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
-      "identifier": "urn:air:github.com:anthropics:skills:algorithmic-art",
-      "displayName": "Algorithmic Art",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/skills/blob/main/skills/algorithmic-art/SKILL.md",
-      "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration.",
-      "metadata": {
-        "sourceSet": "anthropics/skills",
-        "repoPath": "skills/algorithmic-art/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:anthropics:knowledge-work-plugins:apollo",
       "displayName": "Apollo",
       "mediaType": "application/vnd.anthropic.claude-plugin+json",
@@ -99,18 +87,6 @@
         "repoPath": "bio-research/.claude-plugin/plugin.json"
       },
       "type": "application/vnd.anthropic.claude-plugin+json"
-    },
-    {
-      "identifier": "urn:air:github.com:anthropics:skills:brand-guidelines",
-      "displayName": "Brand Guidelines",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/skills/blob/main/skills/brand-guidelines/SKILL.md",
-      "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel.",
-      "metadata": {
-        "sourceSet": "anthropics/skills",
-        "repoPath": "skills/brand-guidelines/SKILL.md"
-      },
-      "type": "application/ai-skill"
     },
     {
       "identifier": "urn:air:github.com:anthropics:knowledge-work-plugins:brand-voice",
@@ -389,18 +365,6 @@
       "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
-      "identifier": "urn:air:github.com:anthropics:skills:doc-coauthoring",
-      "displayName": "Doc Coauthoring",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md",
-      "description": "Guide users through a structured workflow for co-authoring documentation.",
-      "metadata": {
-        "sourceSet": "anthropics/skills",
-        "repoPath": "skills/doc-coauthoring/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:anthropics:skills:docx",
       "displayName": "Docx",
       "mediaType": "application/ai-skill",
@@ -677,18 +641,6 @@
       "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
-      "identifier": "urn:air:github.com:anthropics:skills:internal-comms",
-      "displayName": "Internal Comms",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/skills/blob/main/skills/internal-comms/SKILL.md",
-      "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use.",
-      "metadata": {
-        "sourceSet": "anthropics/skills",
-        "repoPath": "skills/internal-comms/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:anthropics:financial-services-plugins:investment-banking",
       "displayName": "Investment Banking",
       "mediaType": "application/vnd.anthropic.claude-plugin+json",
@@ -869,18 +821,6 @@
       "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
-      "identifier": "urn:air:github.com:anthropics:skills:mcp-builder",
-      "displayName": "Mcp Builder",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md",
-      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools.",
-      "metadata": {
-        "sourceSet": "anthropics/skills",
-        "repoPath": "skills/mcp-builder/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:anthropics:claude-plugins-public:mcp-server-dev",
       "displayName": "Mcp Server Dev",
       "mediaType": "application/vnd.anthropic.claude-plugin+json",
@@ -975,18 +915,6 @@
         "repoPath": "pdf-viewer/.claude-plugin/plugin.json"
       },
       "type": "application/vnd.anthropic.claude-plugin+json"
-    },
-    {
-      "identifier": "urn:air:github.com:anthropics:skills:pdf",
-      "displayName": "Pdf",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/skills/blob/main/skills/pdf/SKILL.md",
-      "description": "Use this skill whenever the user wants to do anything with PDF files.",
-      "metadata": {
-        "sourceSet": "anthropics/skills",
-        "repoPath": "skills/pdf/SKILL.md"
-      },
-      "type": "application/ai-skill"
     },
     {
       "identifier": "urn:air:github.com:anthropics:financial-services-plugins:pitch-agent",
@@ -1253,18 +1181,6 @@
       "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
-      "identifier": "urn:air:github.com:anthropics:skills:slack-gif-creator",
-      "displayName": "Slack Gif Creator",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/skills/blob/main/skills/slack-gif-creator/SKILL.md",
-      "description": "Knowledge and utilities for creating animated GIFs optimized for Slack.",
-      "metadata": {
-        "sourceSet": "anthropics/skills",
-        "repoPath": "skills/slack-gif-creator/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:anthropics:knowledge-work-plugins:small-business",
       "displayName": "Small Business",
       "mediaType": "application/vnd.anthropic.claude-plugin+json",
@@ -1337,18 +1253,6 @@
       "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
-      "identifier": "urn:air:github.com:anthropics:skills:theme-factory",
-      "displayName": "Theme Factory",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/skills/blob/main/skills/theme-factory/SKILL.md",
-      "description": "Toolkit for styling artifacts with a theme.",
-      "metadata": {
-        "sourceSet": "anthropics/skills",
-        "repoPath": "skills/theme-factory/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:anthropics:defending-code-reference-harness:threat-model",
       "displayName": "Threat Model",
       "mediaType": "application/ai-skill",
@@ -1407,30 +1311,6 @@
         "repoPath": "plugins/vertical-plugins/wealth-management/.claude-plugin/plugin.json"
       },
       "type": "application/vnd.anthropic.claude-plugin+json"
-    },
-    {
-      "identifier": "urn:air:github.com:anthropics:skills:web-artifacts-builder",
-      "displayName": "Web Artifacts Builder",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/skills/blob/main/skills/web-artifacts-builder/SKILL.md",
-      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS...",
-      "metadata": {
-        "sourceSet": "anthropics/skills",
-        "repoPath": "skills/web-artifacts-builder/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:anthropics:skills:webapp-testing",
-      "displayName": "Webapp Testing",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md",
-      "description": "Toolkit for interacting with and testing local web applications using Playwright.",
-      "metadata": {
-        "sourceSet": "anthropics/skills",
-        "repoPath": "skills/webapp-testing/SKILL.md"
-      },
-      "type": "application/ai-skill"
     },
     {
       "identifier": "urn:air:github.com:anthropics:skills:xlsx",
@@ -1569,18 +1449,6 @@
         "repoPath": "better-auth/.claude-plugin/plugin.json"
       },
       "type": "application/vnd.anthropic.claude-plugin+json"
-    },
-    {
-      "identifier": "urn:air:github.com:better-auth:skills:create-auth-skill",
-      "displayName": "Create Auth Skill",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/better-auth/skills/blob/main/better-auth/create-auth/SKILL.md",
-      "description": "Scaffold and implement authentication in TypeScript/JavaScript apps using Better Auth.",
-      "metadata": {
-        "sourceSet": "better-auth/skills",
-        "repoPath": "better-auth/create-auth/SKILL.md"
-      },
-      "type": "application/ai-skill"
     },
     {
       "identifier": "urn:air:github.com:better-auth:skills:email-and-password-best-practices",
@@ -1811,18 +1679,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:brave:brave-search-skills:answers",
-      "displayName": "Answers",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/brave/brave-search-skills/blob/main/skills/answers/SKILL.md",
-      "description": "USE FOR AI-grounded answers via OpenAI-compatible /chat/completions.",
-      "metadata": {
-        "sourceSet": "brave/brave-search-skills",
-        "repoPath": "skills/answers/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:brave:brave-search-skills:bx-search",
       "displayName": "Bx Search",
       "mediaType": "application/ai-skill",
@@ -1831,126 +1687,6 @@
       "metadata": {
         "sourceSet": "brave/brave-search-skills",
         "repoPath": "clawhub/bx-search/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:brave:brave-search-skills:bx",
-      "displayName": "Bx",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/brave/brave-search-skills/blob/main/skills/bx/SKILL.md",
-      "description": "USE FOR web search, research, RAG, grounding, browse, find, lookups, fact-checking, documentation, agentic AI.",
-      "metadata": {
-        "sourceSet": "brave/brave-search-skills",
-        "repoPath": "skills/bx/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:brave:brave-search-skills:images-search",
-      "displayName": "Images Search",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/brave/brave-search-skills/blob/main/skills/images-search/SKILL.md",
-      "description": "USE FOR image search.",
-      "metadata": {
-        "sourceSet": "brave/brave-search-skills",
-        "repoPath": "skills/images-search/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:brave:brave-search-skills:llm-context",
-      "displayName": "Llm Context",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/brave/brave-search-skills/blob/main/skills/llm-context/SKILL.md",
-      "description": "USE FOR RAG/LLM grounding.",
-      "metadata": {
-        "sourceSet": "brave/brave-search-skills",
-        "repoPath": "skills/llm-context/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:brave:brave-search-skills:local-descriptions",
-      "displayName": "Local Descriptions",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/brave/brave-search-skills/blob/main/skills/local-descriptions/SKILL.md",
-      "description": "USE FOR getting AI-generated POI text descriptions.",
-      "metadata": {
-        "sourceSet": "brave/brave-search-skills",
-        "repoPath": "skills/local-descriptions/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:brave:brave-search-skills:local-pois",
-      "displayName": "Local Pois",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/brave/brave-search-skills/blob/main/skills/local-pois/SKILL.md",
-      "description": "USE FOR getting local business/POI details.",
-      "metadata": {
-        "sourceSet": "brave/brave-search-skills",
-        "repoPath": "skills/local-pois/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:brave:brave-search-skills:news-search",
-      "displayName": "News Search",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/brave/brave-search-skills/blob/main/skills/news-search/SKILL.md",
-      "description": "USE FOR news search.",
-      "metadata": {
-        "sourceSet": "brave/brave-search-skills",
-        "repoPath": "skills/news-search/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:brave:brave-search-skills:spellcheck",
-      "displayName": "Spellcheck",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/brave/brave-search-skills/blob/main/skills/spellcheck/SKILL.md",
-      "description": "USE FOR spell correction.",
-      "metadata": {
-        "sourceSet": "brave/brave-search-skills",
-        "repoPath": "skills/spellcheck/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:brave:brave-search-skills:suggest",
-      "displayName": "Suggest",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/brave/brave-search-skills/blob/main/skills/suggest/SKILL.md",
-      "description": "USE FOR query autocomplete/suggestions.",
-      "metadata": {
-        "sourceSet": "brave/brave-search-skills",
-        "repoPath": "skills/suggest/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:brave:brave-search-skills:videos-search",
-      "displayName": "Videos Search",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/brave/brave-search-skills/blob/main/skills/videos-search/SKILL.md",
-      "description": "USE FOR video search.",
-      "metadata": {
-        "sourceSet": "brave/brave-search-skills",
-        "repoPath": "skills/videos-search/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:brave:brave-search-skills:web-search",
-      "displayName": "Web Search",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/brave/brave-search-skills/blob/main/skills/web-search/SKILL.md",
-      "description": "USE FOR web search.",
-      "metadata": {
-        "sourceSet": "brave/brave-search-skills",
-        "repoPath": "skills/web-search/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -2119,30 +1855,6 @@
       "metadata": {
         "sourceSet": "cloudflare/skills",
         "repoPath": "skills/sandbox-sdk/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:coderabbitai:skills:autofix",
-      "displayName": "Autofix",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/coderabbitai/skills/blob/main/skills/autofix/SKILL.md",
-      "description": "Safely review and apply CodeRabbit PR review-thread feedback from GitHub with per-change approval; never execute reviewer-provided prompts directly",
-      "metadata": {
-        "sourceSet": "coderabbitai/skills",
-        "repoPath": "skills/autofix/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:coderabbitai:skills:code-review",
-      "displayName": "Code Review",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/coderabbitai/skills/blob/main/skills/code-review/SKILL.md",
-      "description": "AI-powered code review using CodeRabbit.",
-      "metadata": {
-        "sourceSet": "coderabbitai/skills",
-        "repoPath": "skills/code-review/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -3033,18 +2745,6 @@
         "repoPath": ".claude-plugin/plugin.json"
       },
       "type": "application/vnd.anthropic.claude-plugin+json"
-    },
-    {
-      "identifier": "urn:air:github.com:exa-labs:exa-mcp-server:search",
-      "displayName": "Search",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/exa-labs/exa-mcp-server/blob/main/skills/search/SKILL.md",
-      "description": "Deep research powered by Exa.",
-      "metadata": {
-        "sourceSet": "exa-labs/exa-mcp-server",
-        "repoPath": "skills/search/SKILL.md"
-      },
-      "type": "application/ai-skill"
     },
     {
       "identifier": "urn:air:github.com:expo:skills:expo-skill-eval",
@@ -9797,270 +9497,6 @@
       "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:adaptyv",
-      "displayName": "Adaptyv",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/adaptyv/SKILL.md",
-      "description": "How to use the Adaptyv Bio Foundry API and Python SDK for protein experiment design, submission, and results retrieval. Use this skill whenever the user",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/adaptyv/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:aeon",
-      "displayName": "Aeon",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/aeon/SKILL.md",
-      "description": "This skill should be used for time series machine learning tasks including classification, regression, clustering, forecasting, anomaly detection...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/aeon/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:analytical-method-validation",
-      "displayName": "Analytical Method Validation",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/analytical-method-validation/SKILL.md",
-      "description": "Plan, execute, and document validation, verification, and transfer of analytical procedures under the governing framework - ICH Q2(R2) and Q14, USP...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/analytical-method-validation/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:anndata",
-      "displayName": "Anndata",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/anndata/SKILL.md",
-      "description": "Data structure for annotated matrices in single-cell analysis. Use when working with .h5ad files or integrating with the scverse ecosystem.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/anndata/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:arbor",
-      "displayName": "Arbor",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/arbor/SKILL.md",
-      "description": "Autonomously improve a real artifact (code, training recipe, agent harness, data pipeline, prompt) against an objective and an evaluator, using...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/arbor/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:arboreto",
-      "displayName": "Arboreto",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/arboreto/SKILL.md",
-      "description": "Infer gene regulatory networks (GRNs) from gene expression data using scalable algorithms (GRNBoost2, GENIE3).",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/arboreto/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:astropy",
-      "displayName": "Astropy",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/astropy/SKILL.md",
-      "description": "Core Python library for astronomy and astrophysics workflows that need Astropy APIs, including units/quantities, coordinates, FITS I/O, tables, time...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/astropy/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:autoskill",
-      "displayName": "Autoskill",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/autoskill/SKILL.md",
-      "description": "Observe the user's screen via screenpipe, detect repeated research workflows, match them against existing scientific-agent-skills, and draft new skills.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/autoskill/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:benchling-integration",
-      "displayName": "Benchling Integration",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/benchling-integration/SKILL.md",
-      "description": "Benchling Python SDK and REST API integration for registry entities, inventory, ELN entries, workflows, Benchling Apps, and Data Warehouse queries.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/benchling-integration/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:bgpt-paper-search",
-      "displayName": "Bgpt Paper Search",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/bgpt-paper-search/SKILL.md",
-      "description": "Search scientific papers and retrieve structured experimental data extracted from full-text studies via the BGPT MCP server.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/bgpt-paper-search/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:bids",
-      "displayName": "Bids",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/bids/SKILL.md",
-      "description": "Use this skill when working with Brain Imaging Data Structure (BIDS) datasets: organizing neuroscience and biomedical data (MRI, EEG, MEG, iEEG, PET...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/bids/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:biopython",
-      "displayName": "Biopython",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/biopython/SKILL.md",
-      "description": "Comprehensive molecular biology toolkit. Use for sequence manipulation, file parsing (FASTA/GenBank/PDB), phylogenetics, and programmatic NCBI/PubMed...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/biopython/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:bioservices",
-      "displayName": "Bioservices",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/bioservices/SKILL.md",
-      "description": "Unified Python interface to 40+ bioinformatics services. Use when querying multiple databases (UniProt, KEGG, ChEMBL, Reactome) in a single workflow...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/bioservices/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:bulk-rnaseq",
-      "displayName": "Bulk Rnaseq",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/bulk-rnaseq/SKILL.md",
-      "description": "End-to-end bulk RNA-seq orchestrator — takes raw FASTQ reads through QC and trimming (FastQC, fastp/Trim Galore), alignment and quantification (STAR...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/bulk-rnaseq/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:cellxgene-census",
-      "displayName": "Cellxgene Census",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/cellxgene-census/SKILL.md",
-      "description": "Query the CZ CELLxGENE Census programmatically for versioned public single-cell and spatial transcriptomics data.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/cellxgene-census/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:cirq",
-      "displayName": "Cirq",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/cirq/SKILL.md",
-      "description": "Google quantum computing framework. Use when targeting Google Quantum AI hardware, designing noise-aware circuits, or running quantum characterization..",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/cirq/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:citation-management",
-      "displayName": "Citation Management",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/citation-management/SKILL.md",
-      "description": "Comprehensive citation management for academic research. Search OpenAlex, PubMed, and Google Scholar for papers, extract accurate metadata, validate...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/citation-management/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:clinical-decision-support",
-      "displayName": "Clinical Decision Support",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/clinical-decision-support/SKILL.md",
-      "description": "Prepare and validate research-only clinical decision-support evaluation, evidence-profile, cohort, survival, biomarker/model, privacy, and governance...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/clinical-decision-support/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:clinical-reports",
-      "displayName": "Clinical Reports",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/clinical-reports/SKILL.md",
-      "description": "Create safety-bounded draft structures and run local deterministic checks for clinical case, diagnostic, trial, safety, and aggregate research reports.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/clinical-reports/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:cobrapy",
-      "displayName": "Cobrapy",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/cobrapy/SKILL.md",
-      "description": "Constraint-based metabolic modeling (COBRA). FBA, FVA, gene knockouts, flux sampling, SBML models, for systems biology and metabolic engineering...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/cobrapy/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:consciousness-council",
-      "displayName": "Consciousness Council",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/consciousness-council/SKILL.md",
-      "description": "Run a multi-perspective Mind Council deliberation on any question, decision, or creative challenge.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/consciousness-council/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:dask",
-      "displayName": "Dask",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/dask/SKILL.md",
-      "description": "Distributed computing for larger-than-RAM pandas/NumPy workflows.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/dask/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:database-lookup",
       "displayName": "Database Lookup",
       "mediaType": "application/ai-skill",
@@ -10069,90 +9505,6 @@
       "metadata": {
         "sourceSet": "k-dense-ai/scientific-agent-skills",
         "repoPath": "skills/database-lookup/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:datamol",
-      "displayName": "Datamol",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/datamol/SKILL.md",
-      "description": "Pythonic wrapper around RDKit with simplified interface and sensible defaults.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/datamol/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:deepchem",
-      "displayName": "Deepchem",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/deepchem/SKILL.md",
-      "description": "Molecular ML with diverse featurizers and pre-built datasets.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/deepchem/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:deeptools",
-      "displayName": "Deeptools",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/deeptools/SKILL.md",
-      "description": "NGS analysis toolkit. BAM to bigWig conversion, QC (correlation, PCA, fingerprints), heatmaps/profiles (TSS, peaks), for ChIP-seq, RNA-seq, ATAC-seq...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/deeptools/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:depmap",
-      "displayName": "Depmap",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/depmap/SKILL.md",
-      "description": "Query the Cancer Dependency Map (DepMap) for cancer cell line gene dependency scores (CRISPR Chronos), drug sensitivity data, and gene effect profiles.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/depmap/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:dhdna-profiler",
-      "displayName": "Dhdna Profiler",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/dhdna-profiler/SKILL.md",
-      "description": "Extract cognitive patterns and thinking fingerprints from any text.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/dhdna-profiler/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:diffdock",
-      "displayName": "Diffdock",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/diffdock/SKILL.md",
-      "description": "DiffDock and DiffDock-L molecular docking. Use for protein-small-molecule pose prediction from PDB or sequence plus SMILES/SDF/MOL2, batch docking...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/diffdock/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:dnanexus-integration",
-      "displayName": "Dnanexus Integration",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/dnanexus-integration/SKILL.md",
-      "description": "Build and operate reproducible genomics workloads on DNAnexus with the dx CLI, dxpy, apps/applets, native workflows, dxCompiler, and Nextflow.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/dnanexus-integration/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -10169,834 +9521,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:esm",
-      "displayName": "Esm",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/esm/SKILL.md",
-      "description": "Use when working directly with the `esm` Python SDK, ESM3 or ESMC model IDs, Forge/Biohub inference clients, or ESMFold2 folding workflows.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/esm/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:etetoolkit",
-      "displayName": "Etetoolkit",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/etetoolkit/SKILL.md",
-      "description": "Analyze, manipulate, compare, annotate, and visualize phylogenetic or other hierarchical trees with ETE 4.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/etetoolkit/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:exa-search",
-      "displayName": "Exa Search",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/exa-search/SKILL.md",
-      "description": "Web toolkit powered by Exa, tuned for scientific and technical content.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/exa-search/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:experimental-design",
-      "displayName": "Experimental Design",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/experimental-design/SKILL.md",
-      "description": "Design experiments and studies BEFORE data is collected — choosing a design, randomizing, blocking, and laying out treatment combinations so results are",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/experimental-design/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:exploratory-data-analysis",
-      "displayName": "Exploratory Data Analysis",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/exploratory-data-analysis/SKILL.md",
-      "description": "Perform bounded, local exploratory analysis of explicitly supported scientific files.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/exploratory-data-analysis/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:flowio",
-      "displayName": "Flowio",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/flowio/SKILL.md",
-      "description": "Read, inspect, and write Flow Cytometry Standard (FCS) 2.0, 3.0, and 3.1 files with FlowIO.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/flowio/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:fluidsim",
-      "displayName": "Fluidsim",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/fluidsim/SKILL.md",
-      "description": "Plan, configure, inspect, restart, and analyze bounded FluidSim computational-fluid-dynamics simulations with explicit numerical-validity and HPC safety",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/fluidsim/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:generate-image",
-      "displayName": "Generate Image",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/generate-image/SKILL.md",
-      "description": "Generate or edit images with AI models through the OpenRouter Image API (Gemini, Seedream, Recraft, GPT-Image, Riverflow).",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/generate-image/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:geniml",
-      "displayName": "Geniml",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/geniml/SKILL.md",
-      "description": "Use Geniml for audited local genomic-interval workflows: validate BED and universe contracts, plan Region2Vec or scEmbed runs, inspect model/tokenizer..",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/geniml/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:genomic-coordinates",
-      "displayName": "Genomic Coordinates",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/genomic-coordinates/SKILL.md",
-      "description": "Convert genomic intervals between coordinate conventions, normalise and compare variant representations, and detect assembly or contig-naming mismatches",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/genomic-coordinates/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:genomic-intelligence",
-      "displayName": "Genomic Intelligence",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/genomic-intelligence/SKILL.md",
-      "description": "Predict regulatory features, gene structure, and expression directly from DNA sequence using Genomic Intelligence's hosted transformer DNA language...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/genomic-intelligence/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:geomaster",
-      "displayName": "Geomaster",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/geomaster/SKILL.md",
-      "description": "Comprehensive geospatial science skill covering remote sensing, GIS, spatial analysis, machine learning for earth observation, and 30+ scientific...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/geomaster/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:geopandas",
-      "displayName": "Geopandas",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/geopandas/SKILL.md",
-      "description": "Guidance and local audit tools for Python workflows that directly use GeoPandas GeoSeries, GeoDataFrame, spatial operations, or vector-data I/O.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/geopandas/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:get-available-resources",
-      "displayName": "Get Available Resources",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/get-available-resources/SKILL.md",
-      "description": "Detect host inventory and effective CPU, memory, disk, scheduler, container, and accelerator limits when a user asks for resource-aware planning or...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/get-available-resources/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:gget",
-      "displayName": "Gget",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/gget/SKILL.md",
-      "description": "Fast CLI/Python queries to 20+ bioinformatics databases. Use for quick lookups: gene info, BLAST/BLAT, viral sequence downloads, AlphaFold structures...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/gget/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:ginkgo-cloud-lab",
-      "displayName": "Ginkgo Cloud Lab",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/ginkgo-cloud-lab/SKILL.md",
-      "description": "Submit and manage protocols on Ginkgo Bioworks Cloud Lab (cloud.ginkgo.bio), a web-based interface for autonomous lab execution on Reconfigurable...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/ginkgo-cloud-lab/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:glycoengineering",
-      "displayName": "Glycoengineering",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/glycoengineering/SKILL.md",
-      "description": "Analyze and engineer protein glycosylation. Scan sequences for N-glycosylation sequons (N-X-S/T), predict O-glycosylation hotspots, and access curated..",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/glycoengineering/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:gtars",
-      "displayName": "Gtars",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/gtars/SKILL.md",
-      "description": "Use Gtars for local genomic interval models and set algebra, overlaps and counts, consensus and coverage, tokenization, fragment processing, and...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/gtars/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:histolab",
-      "displayName": "Histolab",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/histolab/SKILL.md",
-      "description": "Lightweight WSI tile extraction and preprocessing. Use for basic slide processing, tissue detection, tile extraction, and stain normalization for H&E...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/histolab/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:hugging-science",
-      "displayName": "Hugging Science",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/hugging-science/SKILL.md",
-      "description": "Use when the user is doing AI/ML work in a scientific domain such as biology, chemistry, physics, astronomy, climate, genomics, materials, medicine...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/hugging-science/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:hypogenic",
-      "displayName": "Hypogenic",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/hypogenic/SKILL.md",
-      "description": "Plans and audits use of ChicagoHAI HypoGeniC/HypoRefine for LLM-assisted hypothesis generation from labeled text datasets.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/hypogenic/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:hypothesis-generation",
-      "displayName": "Hypothesis Generation",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/hypothesis-generation/SKILL.md",
-      "description": "Formulate evidence-bounded scientific questions, candidate hypotheses, rival explanations, causal or associational claims, discriminating predictions...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/hypothesis-generation/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:imaging-data-commons",
-      "displayName": "Imaging Data Commons",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/imaging-data-commons/SKILL.md",
-      "description": "Query and download public cancer imaging data from NCI Imaging Data Commons using idc-index.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/imaging-data-commons/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:infographics",
-      "displayName": "Infographics",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/infographics/SKILL.md",
-      "description": "Create professional infographics using Nano Banana Pro AI with smart iterative refinement. Uses Gemini 3.6 Flash for quality review.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/infographics/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:iso-standards-readiness",
-      "displayName": "Iso Standards Readiness",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/iso-standards-readiness/SKILL.md",
-      "description": "Prepares and structurally reviews readiness evidence for ISO management-system and laboratory-competence standards - ISO 13485 medical device QMS, ISO..",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/iso-standards-readiness/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:labarchive-integration",
-      "displayName": "Labarchive Integration",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/labarchive-integration/SKILL.md",
-      "description": "Securely integrate with the official LabArchives ELN REST-like API and Inventory API v1.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/labarchive-integration/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:lamindb",
-      "displayName": "Lamindb",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/lamindb/SKILL.md",
-      "description": "Use when working with LaminDB, the open-source lineage-native lakehouse for biological datasets and models.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/lamindb/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:latchbio-integration",
-      "displayName": "Latchbio Integration",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/latchbio-integration/SKILL.md",
-      "description": "Build, register, debug, and operate bioinformatics workflows on Latch using the Python SDK, CLI, Latch Data and Registry, Nextflow, Snakemake...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/latchbio-integration/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:latex-posters",
-      "displayName": "LaTeX Posters",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/latex-posters/SKILL.md",
-      "description": "Create professional research posters in LaTeX using beamerposter, tikzposter, or baposter.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/latex-posters/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:liteparse",
-      "displayName": "Liteparse",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/liteparse/SKILL.md",
-      "description": "Local document and PDF parsing that returns spatial text with bounding boxes.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/liteparse/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:literature-review",
-      "displayName": "Literature Review",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/literature-review/SKILL.md",
-      "description": "Conduct comprehensive, systematic literature reviews using multiple academic databases (PubMed, arXiv, bioRxiv, Semantic Scholar, etc.).",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/literature-review/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:markdown-mermaid-writing",
-      "displayName": "Markdown Mermaid Writing",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/markdown-mermaid-writing/SKILL.md",
-      "description": "Comprehensive markdown and Mermaid diagram writing skill. Use when creating any scientific document, report, analysis, or visualization.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/markdown-mermaid-writing/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:market-research-reports",
-      "displayName": "Market Research Reports",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/market-research-reports/SKILL.md",
-      "description": "Build evidence-traceable market research reports and assumption-driven market sizing or forecast scenarios.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/market-research-reports/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:markitdown",
-      "displayName": "Markitdown",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/markitdown/SKILL.md",
-      "description": "Convert heterogeneous documents and selected URIs to Markdown with Microsoft MarkItDown for text analysis, search, and LLM/RAG ingestion.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/markitdown/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:matchms",
-      "displayName": "Matchms",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/matchms/SKILL.md",
-      "description": "Process, clean, compare, and search tandem mass spectra with matchms. Use for MS/MS file I/O, metadata harmonization, peak filtering, spectral...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/matchms/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:matlab",
-      "displayName": "Matlab",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/matlab/SKILL.md",
-      "description": "Build, review, migrate, and safely plan MATLAB or GNU Octave numerical workflows, including arrays, tabular/time data, tests, projects, graphics, MAT...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/matlab/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:matplotlib",
-      "displayName": "Matplotlib",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/matplotlib/SKILL.md",
-      "description": "Low-level plotting library for full customization. Use when you need fine-grained control over every plot element, creating novel plot types, or...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/matplotlib/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:medchem",
-      "displayName": "Medchem",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/medchem/SKILL.md",
-      "description": "Medicinal chemistry filters for compound triage. Apply drug-likeness rules (Lipinski, Veber, CNS), structural alert catalogs (PAINS, NIBR, ChEMBL)...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/medchem/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:modal",
-      "displayName": "Modal",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/modal/SKILL.md",
-      "description": "Modal is a serverless cloud platform for running Python on demand, including on-demand GPUs.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/modal/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:molecular-dynamics",
-      "displayName": "Molecular Dynamics",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/molecular-dynamics/SKILL.md",
-      "description": "Run and analyze molecular dynamics simulations with OpenMM and MDAnalysis.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/molecular-dynamics/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:molfeat",
-      "displayName": "Molfeat",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/molfeat/SKILL.md",
-      "description": "Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pretrained models (ChemBERTa), convert SMILES to features, for QSAR and...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/molfeat/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:networkx",
-      "displayName": "Networkx",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/networkx/SKILL.md",
-      "description": "Create, analyze, and visualize complex networks and graphs in Python with NetworkX.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/networkx/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:neurokit2",
-      "displayName": "Neurokit2",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/neurokit2/SKILL.md",
-      "description": "Use NeuroKit2 to build or audit reproducible research workflows for physiological time-series preprocessing, event/interval analysis, multimodal...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/neurokit2/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:neuropixels-analysis",
-      "displayName": "Neuropixels Analysis",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/neuropixels-analysis/SKILL.md",
-      "description": "Analyze Neuropixels extracellular recordings end-to-end with SpikeInterface.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/neuropixels-analysis/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:nextflow",
-      "displayName": "Nextflow",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/nextflow/SKILL.md",
-      "description": "Build, run, and debug Nextflow data pipelines and nf-core workflows end to end.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/nextflow/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:omero-integration",
-      "displayName": "Omero Integration",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/omero-integration/SKILL.md",
-      "description": "Securely inspect and automate microscopy data workflows against OMERO.server with omero-py, BlitzGateway, OMERO CLI, tables, annotations, ROIs...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/omero-integration/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:onekgpd",
-      "displayName": "Onekgpd",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/onekgpd/SKILL.md",
-      "description": "Query the 1000 Genomes Project dataset (3,202 whole-genome-sequenced individuals, GRCh38) at the level of individual participants.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/onekgpd/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:ontology-term-resolution",
-      "displayName": "Ontology Term Resolution",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/ontology-term-resolution/SKILL.md",
-      "description": "Resolve free-text scientific labels to ontology term IDs and validate existing CURIEs against the EBI Ontology Lookup Service (OLS4).",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/ontology-term-resolution/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:open-notebook",
-      "displayName": "Open Notebook",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/open-notebook/SKILL.md",
-      "description": "Self-hosted, open-source alternative to Google NotebookLM for AI-powered research and document analysis.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/open-notebook/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:openpiv",
-      "displayName": "Openpiv",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/openpiv/SKILL.md",
-      "description": "Particle Image Velocimetry (PIV) analysis with OpenPIV. Use when extracting velocity fields from PIV image pairs, analyzing fluid dynamics or flow...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/openpiv/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:opentrons-integration",
-      "displayName": "Opentrons Integration",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/opentrons-integration/SKILL.md",
-      "description": "Author, review, migrate, simulate, and troubleshoot official Opentrons Python Protocol API v2 protocols for Flex and OT-2 robots.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/opentrons-integration/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:optimize-for-gpu",
-      "displayName": "Optimize for GPU",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/optimize-for-gpu/SKILL.md",
-      "description": "GPU-accelerate Python code using CuPy, Numba CUDA, Warp, cuDF, cuML, cuGraph, KvikIO, cuCIM, cuxfilter, cuVS, cuSpatial, and RAFT.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/optimize-for-gpu/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pacsomatic",
-      "displayName": "Pacsomatic",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pacsomatic/SKILL.md",
-      "description": "Operator toolkit for nf-core/pacsomatic matched tumor-normal workflows from BAM inputs.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pacsomatic/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:paper-lookup",
-      "displayName": "Paper Lookup",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/paper-lookup/SKILL.md",
-      "description": "Search 11 academic literature APIs for papers, preprints, citations, and open-access full text, and return results with reproducible provenance.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/paper-lookup/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:paperclip",
-      "displayName": "Paperclip",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/paperclip/SKILL.md",
-      "description": "Search and read full-text biomedical papers, FDA/PMDA/EMA regulatory documents, clinical trial registries, and UniProt/PDB/ChEMBL entries with the...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/paperclip/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:paperzilla",
-      "displayName": "Paperzilla",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/paperzilla/SKILL.md",
-      "description": "Chat with your agent about projects, recommendations, and canonical papers in Paperzilla.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/paperzilla/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:parallel-web",
-      "displayName": "Parallel Web",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/parallel-web/SKILL.md",
-      "description": "Use Parallel CLI for web search, URL extraction, deep research, structured data enrichment, entity discovery, and recurring web monitoring.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/parallel-web/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pathml",
-      "displayName": "Pathml",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pathml/SKILL.md",
-      "description": "Use PathML for local, research-only computational pathology workflows: load and tile slides, build preprocessing and QC pipelines, manage h5path data...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pathml/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pathogen-variant-surveillance",
-      "displayName": "Pathogen Variant Surveillance",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pathogen-variant-surveillance/SKILL.md",
-      "description": "Query live pathogen genomic surveillance data through the GenSpectrum LAPIS API to find which viral lineages are circulating now, how fast they are...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pathogen-variant-surveillance/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pathway-enrichment",
-      "displayName": "Pathway Enrichment",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pathway-enrichment/SKILL.md",
-      "description": "Run pathway and gene-set enrichment analysis on gene lists or ranked gene data, then interpret the results.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pathway-enrichment/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pdf",
-      "displayName": "PDF",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pdf/SKILL.md",
-      "description": "Use this skill whenever the user wants to do anything with PDF files.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pdf/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:peer-review",
-      "displayName": "Peer Review",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/peer-review/SKILL.md",
-      "description": "Prepare evidence-bounded, constructive peer-review drafts and structured manuscript assessments.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/peer-review/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pennylane",
-      "displayName": "Pennylane",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pennylane/SKILL.md",
-      "description": "Hardware-agnostic quantum ML framework with automatic differentiation.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pennylane/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:phylogenetics",
-      "displayName": "Phylogenetics",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/phylogenetics/SKILL.md",
-      "description": "Build and analyze phylogenetic trees using MAFFT (multiple alignment), IQ-TREE 2 (maximum likelihood), and FastTree (fast NJ/ML).",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/phylogenetics/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pi-agent",
-      "displayName": "Pi Agent",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pi-agent/SKILL.md",
-      "description": "Build with and use Pi, the minimal terminal coding harness. Use for installing Pi, configuring providers/models/settings/environment variables, creating",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pi-agent/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pkpd-modeling",
-      "displayName": "Pkpd Modeling",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pkpd-modeling/SKILL.md",
-      "description": "Pharmacokinetic and pharmacodynamic modelling and simulation - non-compartmental analysis, compartmental and population PK, PK/PD and exposure-response.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pkpd-modeling/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:polars-bio",
-      "displayName": "Polars Bio",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/polars-bio/SKILL.md",
-      "description": "High-performance genomic interval operations and bioinformatics file I/O on Polars DataFrames.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/polars-bio/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:polars",
-      "displayName": "Polars",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/polars/SKILL.md",
-      "description": "High-performance DataFrame library for Python ETL, analytics, and pandas migration.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/polars/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pptx-posters",
-      "displayName": "Pptx Posters",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pptx-posters/SKILL.md",
-      "description": "Create and audit editable scientific posters in macro-free PowerPoint (.pptx) from author-approved local content and assets.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pptx-posters/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pptx",
       "displayName": "Pptx",
       "mediaType": "application/ai-skill",
@@ -11009,666 +9533,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:primekg",
-      "displayName": "Primekg",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/primekg/SKILL.md",
-      "description": "Query the Precision Medicine Knowledge Graph (PrimeKG) for multiscale biological data including genes, drugs, diseases, phenotypes, and more.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/primekg/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:protocolsio-integration",
-      "displayName": "Protocolsio Integration",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/protocolsio-integration/SKILL.md",
-      "description": "Read, validate, and safely export protocols.io data with current official REST/MCP contracts, or create non-executing mutation plans.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/protocolsio-integration/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pufferlib",
-      "displayName": "Pufferlib",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pufferlib/SKILL.md",
-      "description": "Version-aware guidance for PufferLib reinforcement-learning environments, vectorization, policies, PuffeRL training, evaluation, and safe checkpoint...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pufferlib/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pydeseq2",
-      "displayName": "Pydeseq2",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pydeseq2/SKILL.md",
-      "description": "Differential gene expression analysis for bulk RNA-seq with PyDESeq2, including formulaic designs, Wald tests, FDR correction, LFC shrinkage, and result",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pydeseq2/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pydicom",
-      "displayName": "Pydicom",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pydicom/SKILL.md",
-      "description": "Use pydicom to read, inspect, write, transform, and safely preflight local DICOM datasets and pixel data.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pydicom/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pyhealth",
-      "displayName": "Pyhealth",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pyhealth/SKILL.md",
-      "description": "Build clinical/healthcare deep-learning pipelines with PyHealth — loading EHR/signal/imaging datasets (MIMIC-III/IV, eICU, OMOP, SleepEDF, ChestXray14..",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pyhealth/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pylabrobot",
-      "displayName": "Pylabrobot",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pylabrobot/SKILL.md",
-      "description": "Develop and review PyLabRobot lab-automation resources, liquid-handling plans, offline simulations, and supported-device integrations.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pylabrobot/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pymatgen",
-      "displayName": "Pymatgen",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pymatgen/SKILL.md",
-      "description": "Analyze, validate, convert, and transform materials structures and computed materials data with current pymatgen APIs, including local phase diagrams...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pymatgen/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pymc",
-      "displayName": "Pymc",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pymc/SKILL.md",
-      "description": "Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/WAIC comparison, posterior checks, for probabilistic...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pymc/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pymoo",
-      "displayName": "Pymoo",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pymoo/SKILL.md",
-      "description": "Multi-objective optimization framework. NSGA-II, NSGA-III, MOEA/D, Pareto fronts, constraint handling, benchmarks (ZDT, DTLZ), for engineering design...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pymoo/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pyopenms",
-      "displayName": "Pyopenms",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pyopenms/SKILL.md",
-      "description": "Complete mass spectrometry analysis platform. Use for proteomics and metabolomics workflows—feature detection, peptide/protein identification...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pyopenms/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pysam",
-      "displayName": "Pysam",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pysam/SKILL.md",
-      "description": "Python/HTSlib workflows for genomic files. Use when reading, querying, filtering, or writing SAM/BAM/CRAM, VCF/BCF, FASTA/FASTQ, or tabix data with...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pysam/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pytdc",
-      "displayName": "Pytdc",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pytdc/SKILL.md",
-      "description": "Use Therapeutics Data Commons through the PyTDC Python package for registry discovery, approved dataset access, task-aware splits, evaluator metrics...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pytdc/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pytorch-lightning",
-      "displayName": "Pytorch Lightning",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pytorch-lightning/SKILL.md",
-      "description": "Deep learning framework (PyTorch Lightning / lightning package).",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pytorch-lightning/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:pyzotero",
-      "displayName": "Pyzotero",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/pyzotero/SKILL.md",
-      "description": "Interact with Zotero reference management libraries using the pyzotero Python client.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/pyzotero/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:qiskit",
-      "displayName": "Qiskit",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/qiskit/SKILL.md",
-      "description": "Build, simulate, transpile, and execute quantum circuits with Qiskit and IBM Quantum Runtime.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/qiskit/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:qutip",
-      "displayName": "Qutip",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/qutip/SKILL.md",
-      "description": "Simulate and audit closed and open quantum-system models with QuTiP 5, including deterministic, trajectory, steady-state, spectral, and phase-space...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/qutip/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:rdkit",
-      "displayName": "Rdkit",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/rdkit/SKILL.md",
-      "description": "Cheminformatics toolkit for fine-grained molecular control. SMILES/SDF parsing, descriptors (MW, LogP, TPSA), fingerprints, substructure search, 2D/3D..",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/rdkit/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:research-grants",
-      "displayName": "Research Grants",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/research-grants/SKILL.md",
-      "description": "Write competitive research proposals for NSF, NIH, DOE, DARPA, and Taiwan NSTC.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/research-grants/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:research-lookup",
-      "displayName": "Research Lookup",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/research-lookup/SKILL.md",
-      "description": "Compile current scholarly evidence for a scientific manuscript or research brief.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/research-lookup/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:rowan",
-      "displayName": "Rowan",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/rowan/SKILL.md",
-      "description": "Rowan is a cloud-native molecular modeling and medicinal-chemistry workflow platform with a Python API.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/rowan/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scanpy",
-      "displayName": "Scanpy",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scanpy/SKILL.md",
-      "description": "Standard single-cell RNA-seq analysis pipeline. Use for QC, normalization, dimensionality reduction (PCA/UMAP/t-SNE), clustering, differential...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scanpy/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scholar-evaluation",
-      "displayName": "Scholar Evaluation",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scholar-evaluation/SKILL.md",
-      "description": "Provide qualitative-first, evidence-traceable developmental review of scholarly works and audit low-stakes research-assessment rubrics with optional...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scholar-evaluation/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scientific-brainstorming",
-      "displayName": "Scientific Brainstorming",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scientific-brainstorming/SKILL.md",
-      "description": "Facilitates evidence-aware scientific ideation with independent generation, structured discussion, explicit assumptions, transparent evaluation...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scientific-brainstorming/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scientific-critical-thinking",
-      "displayName": "Scientific Critical Thinking",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scientific-critical-thinking/SKILL.md",
-      "description": "Evaluate scientific claims and evidence quality. Use for assessing experimental design validity, identifying biases and confounders, applying evidence..",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scientific-critical-thinking/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scientific-schematics",
-      "displayName": "Scientific Schematics",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scientific-schematics/SKILL.md",
-      "description": "Create publication-quality scientific diagrams using Nano Banana 2 AI with smart iterative refinement. Uses Gemini 3.6 Flash for quality review.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scientific-schematics/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scientific-slides",
-      "displayName": "Scientific Slides",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scientific-slides/SKILL.md",
-      "description": "Build slide decks and presentations for research talks. Use this for making PowerPoint slides, conference presentations, seminar talks, research...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scientific-slides/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scientific-visualization",
-      "displayName": "Scientific Visualization",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scientific-visualization/SKILL.md",
-      "description": "Create and audit truthful, accessible, publication-ready scientific figures with Matplotlib, Seaborn, or Plotly.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scientific-visualization/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scientific-writing",
-      "displayName": "Scientific Writing",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scientific-writing/SKILL.md",
-      "description": "Draft, revise, and audit scientific manuscripts or reports with explicit evidence provenance, reporting-guideline coverage, authorship accountability...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scientific-writing/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scikit-bio",
-      "displayName": "Scikit Bio",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scikit-bio/SKILL.md",
-      "description": "Biological data toolkit. Sequence analysis, alignments, phylogenetic trees, diversity metrics (alpha/beta, UniFrac), ordination (PCoA), PERMANOVA...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scikit-bio/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scikit-learn",
-      "displayName": "Scikit Learn",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scikit-learn/SKILL.md",
-      "description": "Machine learning in Python with scikit-learn. Use when working with supervised learning (classification, regression), unsupervised learning (clustering.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scikit-learn/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scikit-survival",
-      "displayName": "Scikit Survival",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scikit-survival/SKILL.md",
-      "description": "Build, evaluate, and audit right-censored or competing-risk survival workflows with scikit-survival, including leakage-safe preprocessing, model...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scikit-survival/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scvelo",
-      "displayName": "Scvelo",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scvelo/SKILL.md",
-      "description": "RNA velocity analysis with scVelo. Estimate cell state transitions from unspliced/spliced mRNA dynamics, infer trajectory directions, compute latent...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scvelo/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:scvi-tools",
-      "displayName": "Scvi Tools",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/scvi-tools/SKILL.md",
-      "description": "Deep generative models for single-cell omics. Use when you need probabilistic batch correction (scVI), transfer learning, differential expression with..",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/scvi-tools/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:seaborn",
-      "displayName": "Seaborn",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/seaborn/SKILL.md",
-      "description": "Statistical visualization with pandas integration. Use for quick exploration of distributions, relationships, and categorical comparisons with...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/seaborn/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:shap",
-      "displayName": "Shap",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/shap/SKILL.md",
-      "description": "Explain and audit machine-learning predictions with SHAP. Use for selecting SHAP explainers and maskers, computing and validating feature attributions..",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/shap/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:simpy",
-      "displayName": "Simpy",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/simpy/SKILL.md",
-      "description": "Build, inspect, test, and analyze bounded process-based discrete-event simulations with SimPy, including events, resources, interrupts, monitoring...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/simpy/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:stable-baselines3",
-      "displayName": "Stable Baselines3",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/stable-baselines3/SKILL.md",
-      "description": "Production-ready reinforcement learning algorithms (PPO, SAC, DQN, TD3, DDPG, A2C) with scikit-learn-like API.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/stable-baselines3/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:statistical-analysis",
-      "displayName": "Statistical Analysis",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/statistical-analysis/SKILL.md",
-      "description": "Guided statistical analysis for research data - test selection, assumption checking, effect sizes, power analysis, Bayesian alternatives, and...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/statistical-analysis/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:statistical-power",
-      "displayName": "Statistical Power",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/statistical-power/SKILL.md",
-      "description": "Sample-size and statistical power calculations for planning studies.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/statistical-power/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:statsmodels",
-      "displayName": "Statsmodels",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/statsmodels/SKILL.md",
-      "description": "Statistical models library for Python. Use when you need specific model classes (OLS, GLM, mixed models, ARIMA) with detailed diagnostics, residuals...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/statsmodels/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:sympy",
-      "displayName": "Sympy",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/sympy/SKILL.md",
-      "description": "Use when you need exact symbolic math in Python — algebra, calculus, equation solving, symbolic linear algebra, or code generation via lambdify/LaTeX.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/sympy/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:tamarind",
-      "displayName": "Tamarind",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/tamarind/SKILL.md",
-      "description": "Access a collection of open-source molecular design and structural biology tools on the Tamarind Bio platform, via its REST API or MCP server — no local",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/tamarind/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:tiledbvcf",
-      "displayName": "Tiledbvcf",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/tiledbvcf/SKILL.md",
-      "description": "Efficient storage and retrieval of genomic variant data using TileDB.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/tiledbvcf/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:timesfm-forecasting",
-      "displayName": "Timesfm Forecasting",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/timesfm-forecasting/SKILL.md",
-      "description": "Zero-shot time series forecasting with Google's TimesFM foundation model.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/timesfm-forecasting/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:torch-geometric",
-      "displayName": "Torch Geometric",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/torch-geometric/SKILL.md",
-      "description": "PyTorch Geometric (PyG) for graph neural networks — node/link/graph classification, message passing (GCN, GAT, GraphSAGE, GIN), heterogeneous graphs...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/torch-geometric/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:torchdrug",
-      "displayName": "Torchdrug",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/torchdrug/SKILL.md",
-      "description": "Build and troubleshoot TorchDrug 0.2.1 workflows for molecular graphs, property prediction, self-supervised pretraining, molecule generation...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/torchdrug/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:transformers",
-      "displayName": "Transformers",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/transformers/SKILL.md",
-      "description": "Hugging Face Transformers for loading Hub models, running pipeline inference, text generation, and Trainer fine-tuning on NLP, vision, audio, and...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/transformers/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:treatment-plans",
-      "displayName": "Treatment Plans",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/treatment-plans/SKILL.md",
-      "description": "Format and structurally validate local treatment-plan documentation after clinical decisions have already been supplied and verified by authorized...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/treatment-plans/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:umap-learn",
-      "displayName": "Umap Learn",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/umap-learn/SKILL.md",
-      "description": "Use UMAP-learn for nonlinear dimensionality reduction, 2D/3D embeddings, clustering preprocessing, supervised or semi-supervised UMAP, DensMAP...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/umap-learn/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:uncertainty-and-units",
-      "displayName": "Uncertainty and Units",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/uncertainty-and-units/SKILL.md",
-      "description": "Track physical units and propagate measurement uncertainty in scientific calculations using pint and uncertainties.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/uncertainty-and-units/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:usfiscaldata",
-      "displayName": "Usfiscaldata",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/usfiscaldata/SKILL.md",
-      "description": "Query the U.S. Treasury Fiscal Data REST API for federal financial data. No API key required.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/usfiscaldata/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:vaex",
-      "displayName": "Vaex",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/vaex/SKILL.md",
-      "description": "Use this skill for processing and analyzing large tabular datasets (billions of rows) that exceed available RAM.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/vaex/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:venue-templates",
-      "displayName": "Venue Templates",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/venue-templates/SKILL.md",
-      "description": "Prepare journal manuscripts, conference papers, research posters, and grant documents using venue-specific formatting guidance and bundled LaTeX...",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/venue-templates/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:what-if-oracle",
-      "displayName": "What If Oracle",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/what-if-oracle/SKILL.md",
-      "description": "Run structured What-If scenario analysis with 4–6 branch possibility exploration (best, likely, worst, wild card, contrarian, second-order).",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/what-if-oracle/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:xlsx",
       "displayName": "Xlsx",
       "mediaType": "application/ai-skill",
@@ -11677,18 +9541,6 @@
       "metadata": {
         "sourceSet": "k-dense-ai/scientific-agent-skills",
         "repoPath": "skills/xlsx/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:k-dense-ai:scientific-agent-skills:zarr-python",
-      "displayName": "Zarr Python",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/k-dense-ai/scientific-agent-skills/blob/main/skills/zarr-python/SKILL.md",
-      "description": "Chunked N-D arrays for cloud storage (Zarr-Python 3). Compressed arrays, parallel I/O, S3/GCS via fsspec, NumPy/Dask/Xarray compatible, for large-scale.",
-      "metadata": {
-        "sourceSet": "k-dense-ai/scientific-agent-skills",
-        "repoPath": "skills/zarr-python/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -11741,18 +9593,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:mattpocock:skills:ask-matt",
-      "displayName": "Ask Matt",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/ask-matt/SKILL.md",
-      "description": "Ask which skill or flow fits your situation. A router over the skills in this repo.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/ask-matt/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:mattpocock:skills:batch-grill-me",
       "displayName": "Batch Grill Me",
       "mediaType": "application/ai-skill",
@@ -11761,42 +9601,6 @@
       "metadata": {
         "sourceSet": "mattpocock/skills",
         "repoPath": "skills/in-progress/batch-grill-me/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:claude-handoff",
-      "displayName": "Claude Handoff",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/in-progress/claude-handoff/SKILL.md",
-      "description": "Hand the current conversation off to a fresh background agent that picks up the work immediately.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/in-progress/claude-handoff/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:code-review",
-      "displayName": "Code Review",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/code-review/SKILL.md",
-      "description": "Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes — Standards (does the code follow this repo's documented...",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/code-review/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:codebase-design",
-      "displayName": "Codebase Design",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/codebase-design/SKILL.md",
-      "description": "Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module's interface, find deepening opportunities, decide...",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/codebase-design/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -11813,30 +9617,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:mattpocock:skills:diagnosing-bugs",
-      "displayName": "Diagnosing Bugs",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/diagnosing-bugs/SKILL.md",
-      "description": "Diagnosis loop for hard bugs and performance regressions. Use when the user says \"diagnose\"/\"debug this\", or reports something...",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/diagnosing-bugs/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:domain-modeling",
-      "displayName": "Domain Modeling",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/domain-modeling/SKILL.md",
-      "description": "Build and sharpen a project's domain model. Use when the user wants to pin down domain terminology or a ubiquitous language, record an architectural...",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/domain-modeling/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:mattpocock:skills:edit-article",
       "displayName": "Edit Article",
       "mediaType": "application/ai-skill",
@@ -11845,18 +9625,6 @@
       "metadata": {
         "sourceSet": "mattpocock/skills",
         "repoPath": "skills/personal/edit-article/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:git-guardrails-claude-code",
-      "displayName": "Git Guardrails Claude Code",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/misc/git-guardrails-claude-code/SKILL.md",
-      "description": "Set up Claude Code hooks to block dangerous git commands (push, reset --hard, clean, branch -D, etc.) before they execute.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/misc/git-guardrails-claude-code/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -11874,18 +9642,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:mattpocock:skills:grill-with-docs",
-      "displayName": "Grill with Docs",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md",
-      "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/grill-with-docs/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:mattpocock:skills:grilling",
       "displayName": "Grilling",
       "mediaType": "application/ai-skill",
@@ -11899,66 +9655,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:mattpocock:skills:handoff",
-      "displayName": "Handoff",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/productivity/handoff/SKILL.md",
-      "description": "Compact the current conversation into a handoff document for another agent to pick up.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/productivity/handoff/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:implement",
-      "displayName": "Implement",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/implement/SKILL.md",
-      "description": "Implement a piece of work based on a spec or set of tickets.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/implement/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:improve-codebase-architecture",
-      "displayName": "Improve Codebase Architecture",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/improve-codebase-architecture/SKILL.md",
-      "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/improve-codebase-architecture/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:loop-me",
-      "displayName": "Loop Me",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/in-progress/loop-me/SKILL.md",
-      "description": "Grill me about specs for the workflows I want to build, within this workspace.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/in-progress/loop-me/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:migrate-to-shoehorn",
-      "displayName": "Migrate to Shoehorn",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/misc/migrate-to-shoehorn/SKILL.md",
-      "description": "Migrate test files from `as` type assertions to @total-typescript/shoehorn.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/misc/migrate-to-shoehorn/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:mattpocock:skills:obsidian-vault",
       "displayName": "Obsidian Vault",
       "mediaType": "application/ai-skill",
@@ -11967,18 +9663,6 @@
       "metadata": {
         "sourceSet": "mattpocock/skills",
         "repoPath": "skills/personal/obsidian-vault/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:prototype",
-      "displayName": "Prototype",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/prototype/SKILL.md",
-      "description": "Build a throwaway prototype to answer a design question. Use when the user wants to sanity-check whether a state model or logic feels right, or explore.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/prototype/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -12007,18 +9691,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:mattpocock:skills:research",
-      "displayName": "Research",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/research/SKILL.md",
-      "description": "Investigate a question against high-trust primary sources and capture the findings as a Markdown file in the repo.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/research/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:mattpocock:skills:resolving-merge-conflicts",
       "displayName": "Resolving Merge Conflicts",
       "mediaType": "application/ai-skill",
@@ -12027,78 +9699,6 @@
       "metadata": {
         "sourceSet": "mattpocock/skills",
         "repoPath": "skills/engineering/resolving-merge-conflicts/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:scaffold-exercises",
-      "displayName": "Scaffold Exercises",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/misc/scaffold-exercises/SKILL.md",
-      "description": "Create exercise directory structures with sections, problems, solutions, and explainers that pass linting.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/misc/scaffold-exercises/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:setup-matt-pocock-skills",
-      "displayName": "Setup Matt Pocock Skills",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/SKILL.md",
-      "description": "Configure this repo for the engineering skills — set up its issue tracker, triage label vocabulary, and domain doc layout.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/setup-matt-pocock-skills/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:setup-pre-commit",
-      "displayName": "Setup Pre Commit",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/misc/setup-pre-commit/SKILL.md",
-      "description": "Set up Husky pre-commit hooks with lint-staged (Prettier), type checking, and tests in the current repo.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/misc/setup-pre-commit/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:setup-ts-deep-modules",
-      "displayName": "Setup TS Deep Modules",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/in-progress/setup-ts-deep-modules/SKILL.md",
-      "description": "Wire dependency-cruiser into a TypeScript repo so each package is a deep module — implementation hidden in subfolders, reachable only through its...",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/in-progress/setup-ts-deep-modules/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:tdd",
-      "displayName": "TDD",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/SKILL.md",
-      "description": "Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions \"red-green-refactor\", or wants integration tests.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/tdd/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:teach",
-      "displayName": "Teach",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/productivity/teach/SKILL.md",
-      "description": "Teach the user a new skill or concept, within this workspace.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/productivity/teach/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -12115,42 +9715,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:mattpocock:skills:to-spec",
-      "displayName": "To Spec",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/to-spec/SKILL.md",
-      "description": "Turn the current conversation into a spec and publish it to the project issue tracker — no interview, just synthesis of what you've already discussed.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/to-spec/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:to-tickets",
-      "displayName": "To Tickets",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/to-tickets/SKILL.md",
-      "description": "Break a plan, spec, or the current conversation into a set of tracer-bullet tickets, each declaring its blocking edges, published to the configured...",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/to-tickets/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:triage",
-      "displayName": "Triage",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/triage/SKILL.md",
-      "description": "Move issues and external PRs through a state machine of triage roles — categorise, verify, grill if needed, and write agent-ready briefs.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/triage/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:mattpocock:skills:ubiquitous-language",
       "displayName": "Ubiquitous Language",
       "mediaType": "application/ai-skill",
@@ -12159,18 +9723,6 @@
       "metadata": {
         "sourceSet": "mattpocock/skills",
         "repoPath": "skills/deprecated/ubiquitous-language/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:wayfinder",
-      "displayName": "Wayfinder",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/wayfinder/SKILL.md",
-      "description": "Plan a huge chunk of work — more than one agent session can hold — as a shared map of decision tickets on your issue tracker, and resolve them one at a.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/engineering/wayfinder/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -12187,30 +9739,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:mattpocock:skills:writing-beats",
-      "displayName": "Writing Beats",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/in-progress/writing-beats/SKILL.md",
-      "description": "Writing, exploit — assemble raw material into a journey of beats, grounding each term before a beat leans on it.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/in-progress/writing-beats/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:writing-fragments",
-      "displayName": "Writing Fragments",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/in-progress/writing-fragments/SKILL.md",
-      "description": "Writing, explore — mine raw fragments, no structure yet.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/in-progress/writing-fragments/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:mattpocock:skills:writing-great-skills",
       "displayName": "Writing Great Skills",
       "mediaType": "application/ai-skill",
@@ -12219,18 +9747,6 @@
       "metadata": {
         "sourceSet": "mattpocock/skills",
         "repoPath": "skills/productivity/writing-great-skills/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:writing-shape",
-      "displayName": "Writing Shape",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/in-progress/writing-shape/SKILL.md",
-      "description": "Writing, exploit — shape raw material into an article, paragraph by paragraph.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/in-progress/writing-shape/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -12536,18 +10052,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:microsoft:skills:declarative-agent-developer",
-      "displayName": "Declarative Agent Developer",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/skills/blob/main/.github/plugins/microsoft-365-agents-toolkit/skills/declarative-agent-developer/SKILL.md",
-      "description": "Create, build, deploy, and localize declarative agents for M365 Copilot and Teams. USE THIS SKILL for ANY task involving a declarative agent — including",
-      "metadata": {
-        "sourceSet": "microsoft/skills",
-        "repoPath": ".github/plugins/microsoft-365-agents-toolkit/skills/declarative-agent-developer/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:microsoft:skills:deploy",
       "displayName": "Deploy",
       "mediaType": "application/ai-skill",
@@ -12632,18 +10136,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:microsoft:skills:install-atk",
-      "displayName": "Install Atk",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/skills/blob/main/.github/plugins/microsoft-365-agents-toolkit/skills/install-atk/SKILL.md",
-      "description": "Install or update the M365 Agents Toolkit (ATK) CLI and VS Code extension.",
-      "metadata": {
-        "sourceSet": "microsoft/skills",
-        "repoPath": ".github/plugins/microsoft-365-agents-toolkit/skills/install-atk/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:microsoft:skills:kql",
       "displayName": "Kql",
       "mediaType": "application/ai-skill",
@@ -12652,18 +10144,6 @@
       "metadata": {
         "sourceSet": "microsoft/skills",
         "repoPath": ".github/skills/kql/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:microsoft:skills:m365-agent-evaluator",
-      "displayName": "M365 Agent Evaluator",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/skills/blob/main/.github/plugins/microsoft-365-agents-toolkit/skills/m365-agent-evaluator/SKILL.md",
-      "description": "Use this skill when a user wants to create, run, or analyze evaluation suites for Microsoft 365 Copilot declarative agents with the public...",
-      "metadata": {
-        "sourceSet": "microsoft/skills",
-        "repoPath": ".github/plugins/microsoft-365-agents-toolkit/skills/m365-agent-evaluator/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -12866,18 +10346,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:microsoft:skills:slack-to-teams",
-      "displayName": "Slack to Teams",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/skills/blob/main/.github/plugins/microsoft-365-agents-toolkit/skills/teams-app-developer/slack-to-teams/SKILL.md",
-      "description": "Sub-skill of microsoft-365-agents-toolkit. Routed expert system with 100+ micro-expert files for migrating Slack bots to Teams, cross-platform bridging.",
-      "metadata": {
-        "sourceSet": "microsoft/skills",
-        "repoPath": ".github/plugins/microsoft-365-agents-toolkit/skills/teams-app-developer/slack-to-teams/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:microsoft:skills:teams-app-developer",
       "displayName": "Teams App Developer",
       "mediaType": "application/ai-skill",
@@ -12886,18 +10354,6 @@
       "metadata": {
         "sourceSet": "microsoft/skills",
         "repoPath": ".github/plugins/microsoft-365-agents-toolkit/skills/teams-app-developer/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:microsoft:skills:ui-widget-developer",
-      "displayName": "UI Widget Developer",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/microsoft/skills/blob/main/.github/plugins/microsoft-365-agents-toolkit/skills/ui-widget-developer/SKILL.md",
-      "description": "Build MCP servers for Copilot Chat using the OpenAI Apps SDK or MCP Apps SDK widget rendering support (any language).",
-      "metadata": {
-        "sourceSet": "microsoft/skills",
-        "repoPath": ".github/plugins/microsoft-365-agents-toolkit/skills/ui-widget-developer/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -13047,66 +10503,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:neondatabase:agent-skills:neon-ai-gateway",
-      "displayName": "Neon Ai Gateway",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/neondatabase/agent-skills/blob/main/skills/neon-ai-gateway/SKILL.md",
-      "description": "One API and one credential for frontier and open-source LLMs, built into your Neon branch and powered by Databricks.",
-      "metadata": {
-        "sourceSet": "neondatabase/agent-skills",
-        "repoPath": "skills/neon-ai-gateway/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:neondatabase:agent-skills:neon-functions",
-      "displayName": "Neon Functions",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/neondatabase/agent-skills/blob/main/skills/neon-functions/SKILL.md",
-      "description": "Long-running, serverless Node.js HTTP functions deployed onto your Neon branch, with DATABASE_URL injected automatically and compute that runs next...",
-      "metadata": {
-        "sourceSet": "neondatabase/agent-skills",
-        "repoPath": "skills/neon-functions/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:neondatabase:agent-skills:neon-object-storage",
-      "displayName": "Neon Object Storage",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/neondatabase/agent-skills/blob/main/skills/neon-object-storage/SKILL.md",
-      "description": "S3-compatible object storage that branches with your Neon project, so files and the database stay in sync across every branch.",
-      "metadata": {
-        "sourceSet": "neondatabase/agent-skills",
-        "repoPath": "skills/neon-object-storage/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:neondatabase:agent-skills:neon-postgres-branches",
-      "displayName": "Neon Postgres Branches",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/neondatabase/agent-skills/blob/main/skills/neon-postgres-branches/SKILL.md",
-      "description": "Choose and create the right Neon branch type for testing and development.",
-      "metadata": {
-        "sourceSet": "neondatabase/agent-skills",
-        "repoPath": "skills/neon-postgres-branches/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:neondatabase:agent-skills:neon-postgres-egress-optimizer",
-      "displayName": "Neon Postgres Egress Optimizer",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/neondatabase/agent-skills/blob/main/skills/neon-postgres-egress-optimizer/SKILL.md",
-      "description": "Diagnose and fix excessive Postgres egress (network data transfer) in a codebase.",
-      "metadata": {
-        "sourceSet": "neondatabase/agent-skills",
-        "repoPath": "skills/neon-postgres-egress-optimizer/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:neondatabase:agent-skills:neon-postgres",
       "displayName": "Neon Postgres",
       "mediaType": "application/ai-skill",
@@ -13143,42 +10539,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:nvidia:skills:cuopt-developer",
-      "displayName": "Cuopt Developer",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-developer/SKILL.md",
-      "description": "Modify, build, test, debug, and contribute to NVIDIA cuOpt (C++/CUDA, Python, server, CI).",
-      "metadata": {
-        "sourceSet": "NVIDIA/cuopt",
-        "repoPath": "skills/cuopt-developer/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:nvidia:skills:cuopt-install",
-      "displayName": "Cuopt Install",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-install/SKILL.md",
-      "description": "Install cuOpt for Python, C, or server via pip, conda, or Docker; verify the install.",
-      "metadata": {
-        "sourceSet": "NVIDIA/cuopt",
-        "repoPath": "skills/cuopt-install/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:nvidia:cuopt:cuopt-multi-objective-exploration",
-      "displayName": "Cuopt Multi Objective Exploration",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-multi-objective-exploration/SKILL.md",
-      "description": "Trace and interpret the Pareto frontier across competing objectives using repeated single-objective cuOpt solves (weighted-sum and -constraint).",
-      "metadata": {
-        "sourceSet": "NVIDIA/cuopt",
-        "repoPath": "skills/cuopt-multi-objective-exploration/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:nvidia:skills:cuopt-numerical-optimization-api-c",
       "displayName": "Cuopt Numerical Optimization Api C",
       "mediaType": "application/ai-skill",
@@ -13187,66 +10547,6 @@
       "metadata": {
         "sourceSet": "NVIDIA/cuopt",
         "repoPath": "skills/cuopt-numerical-optimization-api/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:nvidia:skills:cuopt-numerical-optimization-formulation",
-      "displayName": "Cuopt Numerical Optimization Formulation",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-numerical-optimization-formulation/SKILL.md",
-      "description": "LP, MILP, QP - concepts, problem-text parsing, and formulation patterns (parameters, constraints, decisions, objective).",
-      "metadata": {
-        "sourceSet": "NVIDIA/cuopt",
-        "repoPath": "skills/cuopt-numerical-optimization-formulation/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:nvidia:skills:cuopt-routing-api-python",
-      "displayName": "Cuopt Routing Api Python",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-routing-api-python/SKILL.md",
-      "description": "Vehicle routing (VRP, TSP, PDP) with cuOpt - Python API only.",
-      "metadata": {
-        "sourceSet": "NVIDIA/cuopt",
-        "repoPath": "skills/cuopt-routing-api-python/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:nvidia:skills:cuopt-server-api-python",
-      "displayName": "Cuopt Server Api Python",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-server-api-python/SKILL.md",
-      "description": "cuOpt REST server - start server, endpoints, Python/curl client examples.",
-      "metadata": {
-        "sourceSet": "NVIDIA/cuopt",
-        "repoPath": "skills/cuopt-server-api-python/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:nvidia:skills:cuopt-skill-evolution",
-      "displayName": "Cuopt Skill Evolution",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-skill-evolution/SKILL.md",
-      "description": "After solving a non-trivial problem, detect generalizable learnings and propose skill updates.",
-      "metadata": {
-        "sourceSet": "NVIDIA/cuopt",
-        "repoPath": "skills/cuopt-skill-evolution/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:nvidia:skills:cuopt-user-rules",
-      "displayName": "Cuopt User Rules",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-user-rules/SKILL.md",
-      "description": "Base rules for end users calling NVIDIA cuOpt (routing/LP/MILP/QP/install/server).",
-      "metadata": {
-        "sourceSet": "NVIDIA/cuopt",
-        "repoPath": "skills/cuopt-user-rules/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -14792,30 +12092,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:resend:resend-skills:agent-email-inbox",
-      "displayName": "Agent Email Inbox",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/resend/resend-skills/blob/main/skills/agent-email-inbox/SKILL.md",
-      "description": "Use when building any system where email content triggers actions - AI agent inboxes, automated support handlers, email-to-task pipelines, or any...",
-      "metadata": {
-        "sourceSet": "resend/resend-skills",
-        "repoPath": "skills/agent-email-inbox/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:resend:resend-skills:email-best-practices",
-      "displayName": "Email Best Practices",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/resend/resend-skills/blob/main/skills/email-best-practices/SKILL.md",
-      "description": "Use when building email features, emails going to spam, high bounce rates, setting up SPF/DKIM/DMARC authentication, implementing email capture...",
-      "metadata": {
-        "sourceSet": "resend/resend-skills",
-        "repoPath": "skills/email-best-practices/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:resend:resend-migration-skill:migrate-sendgrid",
       "displayName": "Migrate Sendgrid",
       "mediaType": "application/ai-skill",
@@ -14824,18 +12100,6 @@
       "metadata": {
         "sourceSet": "resend/resend-migration-skill",
         "repoPath": "migrate-sendgrid/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:resend:resend-skills:react-email",
-      "displayName": "React Email",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/resend/resend-skills/blob/main/skills/react-email/SKILL.md",
-      "description": "Use when building HTML email templates with React components, adding a visual email editor to an application using the React Email visual editor...",
-      "metadata": {
-        "sourceSet": "resend/resend-skills",
-        "repoPath": "skills/react-email/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -14852,18 +12116,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:resend:resend-skills:resend-cli",
-      "displayName": "Resend Cli",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/resend/resend-skills/blob/main/skills/resend-cli/SKILL.md",
-      "description": "Operate the Resend platform from the terminal - send emails (including React Email .tsx templates via --react-email), manage domains, contacts...",
-      "metadata": {
-        "sourceSet": "resend/resend-skills",
-        "repoPath": "skills/resend-cli/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:resend:design-skills:resend-design-system",
       "displayName": "Resend Design System",
       "mediaType": "application/ai-skill",
@@ -14872,18 +12124,6 @@
       "metadata": {
         "sourceSet": "resend/design-skills",
         "repoPath": "SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:resend:resend-skills:resend",
-      "displayName": "Resend",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/resend/resend-skills/blob/main/skills/resend/SKILL.md",
-      "description": "Use when working with the Resend email API - sending transactional emails (single or batch), receiving inbound emails via webhooks, managing email...",
-      "metadata": {
-        "sourceSet": "resend/resend-skills",
-        "repoPath": "skills/resend/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -15512,18 +12752,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:stripe:ai:connect-recommend",
-      "displayName": "Connect Recommend",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/stripe/ai/blob/main/providers/cursor/plugin/skills/connect-recommend/SKILL.md",
-      "description": "This skill should be used when the user asks about Stripe Connect configuration, charge patterns, dashboard access, or how to get started with...",
-      "metadata": {
-        "sourceSet": "stripe/ai",
-        "repoPath": "providers/cursor/plugin/skills/connect-recommend/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:stripe:ai:stripe-best-practices",
       "displayName": "Stripe Best Practices",
       "mediaType": "application/ai-skill",
@@ -15568,30 +12796,6 @@
       "metadata": {
         "sourceSet": "stripe/ai",
         "repoPath": "skills/upgrade-stripe/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:supabase:agent-skills:supabase-postgres-best-practices",
-      "displayName": "Supabase Postgres Best Practices",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/supabase/agent-skills/blob/main/skills/supabase-postgres-best-practices/SKILL.md",
-      "description": "Postgres performance optimization and best practices from Supabase.",
-      "metadata": {
-        "sourceSet": "supabase/agent-skills",
-        "repoPath": "skills/supabase-postgres-best-practices/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:supabase:agent-skills:supabase",
-      "displayName": "Supabase",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/supabase/agent-skills/blob/main/skills/supabase/SKILL.md",
-      "description": "Use when doing ANY task involving Supabase.",
-      "metadata": {
-        "sourceSet": "supabase/agent-skills",
-        "repoPath": "skills/supabase/SKILL.md"
       },
       "type": "application/ai-skill"
     },
@@ -16060,18 +13264,6 @@
       "metadata": {
         "sourceSet": "trailofbits/skills",
         "repoPath": "plugins/zeroize-audit/skills/zeroize-audit/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:vercel-labs:agent-browser:agent-browser",
-      "displayName": "Agent Browser",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/vercel-labs/agent-browser/blob/main/skills/agent-browser/SKILL.md",
-      "description": "Browser automation CLI for AI agents.",
-      "metadata": {
-        "sourceSet": "vercel-labs/agent-browser",
-        "repoPath": "skills/agent-browser/SKILL.md"
       },
       "type": "application/ai-skill"
     },
