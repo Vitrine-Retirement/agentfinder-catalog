@@ -2836,6 +2836,23 @@
       "type": "application/ai-skill"
     },
     {
+      "identifier": "urn:air:github.com:github:awesome-copilot:agent-radar",
+      "displayName": "Agent Radar",
+      "mediaType": "application/vnd.github.copilot-plugin",
+      "url": "https://github.com/github/awesome-copilot/blob/marketplace/plugins/agent-radar/plugin.json",
+      "description": "Map the Copilot agents on your computer, their sub-agents, their commands, and where their data goes in a live GitHub Copilot canvas.",
+      "tags": [
+        "canvas",
+        "canvas-only",
+        "github-copilot"
+      ],
+      "metadata": {
+        "sourceSet": "github/awesome-copilot",
+        "repoPath": "plugins/agent-radar/plugin.json"
+      },
+      "type": "application/vnd.github.copilot-plugin"
+    },
+    {
       "identifier": "urn:air:github.com:github:awesome-copilot:agent-skill-stack",
       "displayName": "Agent Skill Stack",
       "mediaType": "application/ai-skill",
@@ -3642,6 +3659,23 @@
       "metadata": {
         "sourceSet": "github/awesome-copilot",
         "repoPath": "plugins/chromium-control-canvas/plugin.json"
+      },
+      "type": "application/vnd.github.copilot-plugin"
+    },
+    {
+      "identifier": "urn:air:github.com:github:awesome-copilot:chronicle-stats",
+      "displayName": "Chronicle Stats",
+      "mediaType": "application/vnd.github.copilot-plugin",
+      "url": "https://github.com/github/awesome-copilot/blob/marketplace/plugins/chronicle-stats/plugin.json",
+      "description": "See local Copilot token usage by day, model, and session, with tips to use it more efficiently, in the My AI Usage GitHub Copilot canvas.",
+      "tags": [
+        "canvas",
+        "canvas-only",
+        "github-copilot"
+      ],
+      "metadata": {
+        "sourceSet": "github/awesome-copilot",
+        "repoPath": "plugins/chronicle-stats/plugin.json"
       },
       "type": "application/vnd.github.copilot-plugin"
     },
@@ -4544,6 +4578,23 @@
       "type": "application/ai-skill"
     },
     {
+      "identifier": "urn:air:github.com:github:awesome-copilot:draw",
+      "displayName": "Draw",
+      "mediaType": "application/vnd.github.copilot-plugin",
+      "url": "https://github.com/github/awesome-copilot/blob/marketplace/plugins/draw/plugin.json",
+      "description": "Draw simple diagrams with shapes, attached arrows, text, and a freehand pen in a GitHub Copilot canvas that Copilot can read, edit, tidy, and export.",
+      "tags": [
+        "canvas",
+        "canvas-only",
+        "github-copilot"
+      ],
+      "metadata": {
+        "sourceSet": "github/awesome-copilot",
+        "repoPath": "plugins/draw/plugin.json"
+      },
+      "type": "application/vnd.github.copilot-plugin"
+    },
+    {
       "identifier": "urn:air:github.com:github:awesome-copilot:drawio",
       "displayName": "Drawio",
       "mediaType": "application/ai-skill",
@@ -4554,6 +4605,23 @@
         "repoPath": "skills/drawio/SKILL.md"
       },
       "type": "application/ai-skill"
+    },
+    {
+      "identifier": "urn:air:github.com:github:awesome-copilot:edit-tutorial",
+      "displayName": "Edit Tutorial",
+      "mediaType": "application/vnd.github.copilot-plugin",
+      "url": "https://github.com/github/awesome-copilot/blob/marketplace/plugins/edit-tutorial/plugin.json",
+      "description": "Turn the code edits Copilot made in your session into an interactive lesson with before/after walkthroughs, quizzes, and a hands-on exercise in a GitHub Copilot canvas.",
+      "tags": [
+        "canvas",
+        "canvas-only",
+        "github-copilot"
+      ],
+      "metadata": {
+        "sourceSet": "github/awesome-copilot",
+        "repoPath": "plugins/edit-tutorial/plugin.json"
+      },
+      "type": "application/vnd.github.copilot-plugin"
     },
     {
       "identifier": "urn:air:github.com:github:awesome-copilot:editorconfig",
@@ -5063,6 +5131,23 @@
       "type": "application/ai-skill"
     },
     {
+      "identifier": "urn:air:github.com:github:awesome-copilot:git-worktree-explorer",
+      "displayName": "Git Worktree Explorer",
+      "mediaType": "application/vnd.github.copilot-plugin",
+      "url": "https://github.com/github/awesome-copilot/blob/marketplace/plugins/git-worktree-explorer/plugin.json",
+      "description": "Visualize the active Git repository's worktrees, branches, and commits, with optional GitHub pull request context, in a GitHub Copilot canvas.",
+      "tags": [
+        "canvas",
+        "canvas-only",
+        "github-copilot"
+      ],
+      "metadata": {
+        "sourceSet": "github/awesome-copilot",
+        "repoPath": "plugins/git-worktree-explorer/plugin.json"
+      },
+      "type": "application/vnd.github.copilot-plugin"
+    },
+    {
       "identifier": "urn:air:github.com:github:awesome-copilot:github-actions-efficiency",
       "displayName": "GitHub Actions Efficiency",
       "mediaType": "application/ai-skill",
@@ -5145,6 +5230,23 @@
         "repoPath": "skills/github-release/SKILL.md"
       },
       "type": "application/ai-skill"
+    },
+    {
+      "identifier": "urn:air:github.com:github:awesome-copilot:github-security",
+      "displayName": "GitHub Security",
+      "mediaType": "application/vnd.github.copilot-plugin",
+      "url": "https://github.com/github/awesome-copilot/blob/marketplace/plugins/github-security/plugin.json",
+      "description": "Run security reviews of your session's changes and explain, fix, or dismiss code scanning alerts in a GitHub Copilot canvas.",
+      "tags": [
+        "canvas",
+        "canvas-only",
+        "github-copilot"
+      ],
+      "metadata": {
+        "sourceSet": "github/awesome-copilot",
+        "repoPath": "plugins/github-security/plugin.json"
+      },
+      "type": "application/vnd.github.copilot-plugin"
     },
     {
       "identifier": "urn:air:github.com:github:awesome-copilot:gitmoji",
@@ -5548,6 +5650,23 @@
       "type": "application/ai-skill"
     },
     {
+      "identifier": "urn:air:github.com:github:awesome-copilot:jupyter-notebooks",
+      "displayName": "Jupyter Notebooks",
+      "mediaType": "application/vnd.github.copilot-plugin",
+      "url": "https://github.com/github/awesome-copilot/blob/marketplace/plugins/jupyter-notebooks/plugin.json",
+      "description": "Create, edit, run, save, and checkpoint Jupyter notebooks in an interactive GitHub Copilot canvas.",
+      "tags": [
+        "canvas",
+        "canvas-only",
+        "github-copilot"
+      ],
+      "metadata": {
+        "sourceSet": "github/awesome-copilot",
+        "repoPath": "plugins/jupyter-notebooks/plugin.json"
+      },
+      "type": "application/vnd.github.copilot-plugin"
+    },
+    {
       "identifier": "urn:air:github.com:github:awesome-copilot:kotlin-mcp-server-generator",
       "displayName": "Kotlin MCP Server Generator",
       "mediaType": "application/ai-skill",
@@ -5882,6 +6001,23 @@
         "repoPath": "skills/mkdocs-translations/SKILL.md"
       },
       "type": "application/ai-skill"
+    },
+    {
+      "identifier": "urn:air:github.com:github:awesome-copilot:modernization-workflow",
+      "displayName": "Modernization Workflow",
+      "mediaType": "application/vnd.github.copilot-plugin",
+      "url": "https://github.com/github/awesome-copilot/blob/marketplace/plugins/modernization-workflow/plugin.json",
+      "description": "Visualize and guide the GitHub Copilot Modernize CLI Assess, Plan, and Execute workflow for .NET, Java, and C++ application repositories in a GitHub Copilot canvas.",
+      "tags": [
+        "canvas",
+        "canvas-only",
+        "github-copilot"
+      ],
+      "metadata": {
+        "sourceSet": "github/awesome-copilot",
+        "repoPath": "plugins/modernization-workflow/plugin.json"
+      },
+      "type": "application/vnd.github.copilot-plugin"
     },
     {
       "identifier": "urn:air:github.com:github:awesome-copilot:msgraph-sdk",
@@ -6403,6 +6539,23 @@
         "repoPath": "skills/pr-dashboard/SKILL.md"
       },
       "type": "application/ai-skill"
+    },
+    {
+      "identifier": "urn:air:github.com:github:awesome-copilot:pr-review",
+      "displayName": "PR Review",
+      "mediaType": "application/vnd.github.copilot-plugin",
+      "url": "https://github.com/github/awesome-copilot/blob/marketplace/plugins/pr-review/plugin.json",
+      "description": "Review GitHub pull requests in a read-only GitHub Copilot canvas with AI-grouped changes, expandable diffs, and questions scoped to groups, files, or hunks.",
+      "tags": [
+        "canvas",
+        "canvas-only",
+        "github-copilot"
+      ],
+      "metadata": {
+        "sourceSet": "github/awesome-copilot",
+        "repoPath": "plugins/pr-review/plugin.json"
+      },
+      "type": "application/vnd.github.copilot-plugin"
     },
     {
       "identifier": "urn:air:github.com:github:awesome-copilot:pr-screenshots",
