@@ -9149,32 +9149,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:mattpocock:skills:grill-me",
-      "displayName": "Grill Me",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md",
-      "description": "A relentless interview to sharpen a plan or design.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/productivity/grill-me/SKILL.md",
-        "com.github.agentfinder.icon.url": "https://raw.githubusercontent.com/github/agentfinder-catalog/70e8c6e2f8eba283b453846a1c0ad65266d46511/icons/mattpocock/skills.png"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:grilling",
-      "displayName": "Grilling",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md",
-      "description": "Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-test their thinking, or uses any 'grill' trigger phrases.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/productivity/grilling/SKILL.md",
-        "com.github.agentfinder.icon.url": "https://raw.githubusercontent.com/github/agentfinder-catalog/70e8c6e2f8eba283b453846a1c0ad65266d46511/icons/mattpocock/skills.png"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:mattpocock:skills:loop-me",
       "displayName": "Loop Me",
       "mediaType": "application/ai-skill",
@@ -9185,6 +9159,19 @@
         "repoPath": "skills/in-progress/loop-me/SKILL.md"
       },
       "type": "application/ai-skill"
+    },
+    {
+      "identifier": "urn:air:github.com:mattpocock:skills:mattpocock-skills",
+      "displayName": "Matt Pocock Skills",
+      "mediaType": "application/vnd.anthropic.claude-plugin+json",
+      "url": "https://github.com/mattpocock/skills/blob/main/.claude-plugin/plugin.json",
+      "description": "Engineering and productivity skills for planning, test-driven development, implementation, code review, and structured questioning.",
+      "metadata": {
+        "sourceSet": "mattpocock/skills",
+        "repoPath": ".claude-plugin/plugin.json",
+        "com.github.agentfinder.icon.url": "https://raw.githubusercontent.com/github/agentfinder-catalog/70e8c6e2f8eba283b453846a1c0ad65266d46511/icons/mattpocock/skills.png"
+      },
+      "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
       "identifier": "urn:air:github.com:mattpocock:skills:migrate-to-shoehorn",
@@ -9283,18 +9270,6 @@
       "type": "application/ai-skill"
     },
     {
-      "identifier": "urn:air:github.com:mattpocock:skills:to-questionnaire",
-      "displayName": "To Questionnaire",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/in-progress/to-questionnaire/SKILL.md",
-      "description": "Turn a decision you can't fully answer into a questionnaire for someone else to fill in.",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/in-progress/to-questionnaire/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
       "identifier": "urn:air:github.com:mattpocock:skills:ubiquitous-language",
       "displayName": "Ubiquitous Language",
       "mediaType": "application/ai-skill",
@@ -9303,18 +9278,6 @@
       "metadata": {
         "sourceSet": "mattpocock/skills",
         "repoPath": "skills/deprecated/ubiquitous-language/SKILL.md"
-      },
-      "type": "application/ai-skill"
-    },
-    {
-      "identifier": "urn:air:github.com:mattpocock:skills:wizard",
-      "displayName": "Wizard",
-      "mediaType": "application/ai-skill",
-      "url": "https://github.com/mattpocock/skills/blob/main/skills/in-progress/wizard/SKILL.md",
-      "description": "Generate an interactive bash wizard that walks a human through a manual procedure — third-party setup, a one-off migration, an A→B state transition...",
-      "metadata": {
-        "sourceSet": "mattpocock/skills",
-        "repoPath": "skills/in-progress/wizard/SKILL.md"
       },
       "type": "application/ai-skill"
     },
