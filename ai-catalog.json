@@ -15476,7 +15476,7 @@
     },
     {
       "identifier": "urn:air:registry.modelcontextprotocol.io:com.agilitycms:mcp-server",
-      "displayName": "com.agilitycms/mcp-server",
+      "displayName": "Agilitycms",
       "type": "application/mcp-server+json",
       "url": "https://api.mcp.github.com/v0.1/servers/com.agilitycms%2Fmcp-server/versions/2.8.0",
       "description": "An MCP server that provides access to Agility CMS.  See https://mcp.agilitycms.com for more details.",
@@ -22220,7 +22220,7 @@
     },
     {
       "identifier": "urn:air:registry.modelcontextprotocol.io:io.github.SAP:fiori-mcp-server",
-      "displayName": "io.github.SAP/fiori-mcp-server",
+      "displayName": "SAP Fiori",
       "type": "application/mcp-server+json",
       "url": "https://api.mcp.github.com/v0.1/servers/io.github.SAP%2Ffiori-mcp-server/versions/1.15.18",
       "description": "SAP Fiori - Model Context Protocol (MCP) server",
