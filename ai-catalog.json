@@ -5,6 +5,18 @@
   },
   "entries": [
     {
+      "identifier": "urn:air:github.com:addyosmani:agent-skills:agent-skills",
+      "displayName": "Addy Osmani Agent Skills",
+      "mediaType": "application/vnd.anthropic.claude-plugin+json",
+      "url": "https://github.com/addyosmani/agent-skills/blob/main/.claude-plugin/plugin.json",
+      "description": "Production-grade engineering skills for AI coding agents across the development lifecycle, from spec and planning through implementation, testing, code review, security, performance, and shipping.",
+      "metadata": {
+        "sourceSet": "addyosmani/agent-skills",
+        "repoPath": ".claude-plugin/plugin.json"
+      },
+      "type": "application/vnd.anthropic.claude-plugin+json"
+    },
+    {
       "identifier": "urn:air:github.com:angular:skills:angular-developer",
       "displayName": "Angular Developer",
       "mediaType": "application/ai-skill",
@@ -1247,6 +1259,18 @@
       "type": "application/ai-skill"
     },
     {
+      "identifier": "urn:air:github.com:cathrynlavery:diagram-design:diagram-design",
+      "displayName": "Diagram Design",
+      "mediaType": "application/vnd.anthropic.claude-plugin+json",
+      "url": "https://github.com/cathrynlavery/diagram-design/blob/main/.claude-plugin/plugin.json",
+      "description": "Draw architecture diagrams, flowcharts, sequence diagrams, charts, and dozens of other diagram types as self-contained HTML and SVG files styled to match your brand.",
+      "metadata": {
+        "sourceSet": "cathrynlavery/diagram-design",
+        "repoPath": ".claude-plugin/plugin.json"
+      },
+      "type": "application/vnd.anthropic.claude-plugin+json"
+    },
+    {
       "identifier": "urn:air:github.com:ChromeDevTools:chrome-devtools-mcp:devtools-for-agents",
       "displayName": "Devtools For Agents",
       "mediaType": "application/vnd.cursor.cursor-plugin+json",
@@ -2253,6 +2277,18 @@
         "repoPath": "voice-isolator/SKILL.md"
       },
       "type": "application/ai-skill"
+    },
+    {
+      "identifier": "urn:air:github.com:EveryInc:compound-engineering-plugin:compound-engineering",
+      "displayName": "Compound Engineering",
+      "mediaType": "application/vnd.anthropic.claude-plugin+json",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin/blob/main/.claude-plugin/plugin.json",
+      "description": "Brainstorm, plan, build, review, and capture learnings with AI agent skills so each unit of engineering work makes the next one easier.",
+      "metadata": {
+        "sourceSet": "EveryInc/compound-engineering-plugin",
+        "repoPath": ".claude-plugin/plugin.json"
+      },
+      "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
       "identifier": "urn:air:github.com:exa-labs:exa-mcp-server:agent",
@@ -10257,6 +10293,18 @@
         "repoPath": "skills/physical-ai-video-data-augmentation/SKILL.md"
       },
       "type": "application/ai-skill"
+    },
+    {
+      "identifier": "urn:air:github.com:obra:superpowers:superpowers",
+      "displayName": "Superpowers",
+      "mediaType": "application/vnd.anthropic.claude-plugin+json",
+      "url": "https://github.com/obra/superpowers/blob/main/.claude-plugin/plugin.json",
+      "description": "Software development methodology for coding agents, built on composable skills for brainstorming, planning, test-driven development, systematic debugging, code review, and subagent-driven development.",
+      "metadata": {
+        "sourceSet": "obra/superpowers",
+        "repoPath": ".claude-plugin/plugin.json"
+      },
+      "type": "application/vnd.anthropic.claude-plugin+json"
     },
     {
       "identifier": "urn:air:github.com:openai:skills:aspnet-core",
